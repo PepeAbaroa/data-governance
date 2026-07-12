@@ -82,3 +82,19 @@ Para cada campo nuevo o ambiguo, defino:
 
 ## Flags de activación
 diccionario, linaje, calidad, auditoría, PII, datos personales, MRUN, RUT, metadatos, catálogo, contrato, esquema, trazabilidad, consistencia, duplicados, nulos, validar, integridad referencial, DAMA, governance.
+
+---
+
+## AMPLIACIÓN 2026-07-12 — Gobernanza de información y conocimiento (no solo datos)
+
+Tres capas, cada una con su pregunta de gobernanza:
+1. **Datos** (lo ya cubierto arriba): ¿son correctos, trazables, con dueño?
+2. **Información**: ¿está clasificada y circula solo donde debe? Clasificar SIEMPRE en: pública / interna / sensible (PII, Ley 21.719) / crítica (secreto profesional, sumarios, datos de menores). La clasificación decide: dónde se guarda, si entra a un prompt, si se versiona en git, a quién se puede enviar.
+3. **Conocimiento**: ¿sobrevive a la persona y a la sesión? Reglas operativas:
+   - Toda decisión metodológica durable → memoria del proyecto (archivo atómico + índice), no solo en el chat.
+   - Todo entregable lleva su "cómo se generó" (notebook fuente, versión de datos, supuestos declarados) — sin eso no es auditable ni reproducible.
+   - Al cerrar un proyecto/consultoría: paquete de transferencia = entregables + glosario + decisiones vigentes + pendientes conocidos (el ESTADO ≤80 líneas es exactamente esto).
+   - Marco de referencia: DAMA-DMBOK (dominios: calidad, metadatos, arquitectura, seguridad, ciclo de vida) — usar como checklist de completitud, no como burocracia.
+
+## Grafo
+complementa: compliance-cl (21.719), db-architect (implementación técnica) · deriva-a: redactor-experto (documentar), bpm-procesos-cl (proceso de gestión documental)

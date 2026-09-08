@@ -1,0 +1,56 @@
+# página 17 — de Dama-dmbok-data-management-body-of-knowledge-2nd-edition.pdf
+
+FIGURES AND TABLES • 13 
+Figure 108 Network Operating Model ___________________________________________________________ 554 
+Figure 109 Centralized Operating Model _________________________________________________________ 555 
+Figure 110 Hybrid Operating Model ____________________________________________________________ 556 
+Figure 111 Federated Operating Model __________________________________________________________ 557 
+Figure 112 Stakeholder Interest Map ____________________________________________________________ 564 
+Figure 113 Bridges’s Transition Phases __________________________________________________________ 576 
+Figure 114 Kotter’s Eight Stage Process for Major Change ____________________________________________ 583 
+Figure 115 Sources of Complacency _____________________________________________________________ 585 
+Figure 116 Vision Breaks Through Status Quo _____________________________________________________ 591 
+Figure 117 Management/Leadership Contrast _____________________________________________________ 593 
+Figure 118 Everett Rogers Diffusion of Innovations _________________________________________________ 600 
+Figure 119 The Stages of Adoption _____________________________________________________________ 602 
+Tables 
+Table 1 GDPR Principles ______________________________________________________________________ 54 
+Table 2 Canadian Privacy Statutory Obligations _____________________________________________________ 55 
+Table 3 United States Privacy Program Criteria _____________________________________________________ 55 
+Table 4 Typical Data Governance Committees / Bodies _______________________________________________ 74 
+Table 5 Principles for Data Asset Accounting _______________________________________________________ 78 
+Table 6 Architecture Domains _________________________________________________________________ 101 
+Table 7 Commonly Used Entity Categories ________________________________________________________ 127 
+Table 8 Entity, Entity Type, and Entity Instance ____________________________________________________ 128 
+Table 9 Modeling Schemes and Notations ________________________________________________________ 136 
+Table 10 Scheme to Database Cross Reference _____________________________________________________ 137 
+Table 11 Data Model Scorecard® Template _______________________________________________________ 164 
+Table 12 ACID vs BASE ______________________________________________________________________ 180 
+Table 13 Sample Regulation Inventory Table ______________________________________________________ 246 
+Table 14 Role Assignment Grid Example _________________________________________________________ 250 
+Table 15 Levels of Control for Documents per ANSI-859 _____________________________________________ 327 
+Table 16 Sample Audit Measures _______________________________________________________________ 329 
+Table 17 Simple Reference List ________________________________________________________________ 353 
+Table 18 Simple Reference List Expanded ________________________________________________________ 354 
+Table 19 Cross-Reference List _________________________________________________________________ 354 
+Table 20 Multi-Language Reference List _________________________________________________________ 354 
+Table 21 UNSPSC (Universal Standard Products and Services Classification) ______________________________ 355 
+Table 22 NAICS (North America Industry Classification System) _______________________________________ 355 
+Table 23 Critical Reference Data Metadata Attributes _______________________________________________ 357 
+Table 24 Source Data as Received by the MDM System _______________________________________________ 361 
+Table 25 Standardized and Enriched Input Data ___________________________________________________ 362 
+Table 26 Candidate Identification and Identity Resolution ____________________________________________ 364 
+Table 27 DW-Bus Matrix Example ______________________________________________________________ 389 
+Table 28 CDC Technique Comparison ___________________________________________________________ 393 
+Table 29 Common Dimensions of Data Quality _____________________________________________________ 458 
+Table 30 DQ Metric Examples _________________________________________________________________ 480 
+Table 31 Data Quality Monitoring Techniques _____________________________________________________ 481 
+Table 32 Analytics Progression ________________________________________________________________ 501 
+Table 33 Typical Risks and Mitigations for a DMMA _________________________________________________ 547 
+Table 34 Bridges’s Transition Phases ____________________________________________________________ 575 
+Table 35 Complacency Scenarios _______________________________________________________________ 578 
+Table 36 Declaring Victory Too Soon Scenarios ____________________________________________________ 581 
+Table 37 Diffusion of Innovations Categories Adapted to Information Management _________________________ 600 
+Table 38 The Stages of Adoption (Adapted from Rogers, 1964) ________________________________________ 602 
+Table 39 Communication Plan Elements _________________________________________________________ 608 
+

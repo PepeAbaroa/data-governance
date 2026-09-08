@@ -1,0 +1,52 @@
+# página 13 — de Dama-dmbok-data-management-body-of-knowledge-2nd-edition.pdf
+
+CONTENTS • 9 
+3. Tools _________________________________________________________________ 545
+4. Techniques ____________________________________________________________ 546
+4.1 Selecting a DMM Framework _________________________________________________ 546
+4.2 DAMA-DMBOK Framework Use ______________________________________________ 546
+5. Guidelines for a DMMA __________________________________________________ 547
+5.1 Readiness Assessment / Risk Assessment ______________________________________ 547
+5.2 Organizational and Cultural Change ___________________________________________ 548
+6. Maturity Management Governance ________________________________________ 548
+6.1 DMMA Process Oversight ____________________________________________________ 548
+6.2 Metrics ___________________________________________________________________ 548
+7. Works Cited / Recommended _____________________________________________ 549
+Chapter 16: Data Management Organization and Role Expectations _______ 551
+1. Introduction ___________________________________________________________ 551
+2. Understand Existing Organization and Cultural Norms ________________________ 551
+3. Data Management Organizational Constructs ________________________________ 553
+3.1 Decentralized Operating Model _______________________________________________ 553
+3.2 Network Operating Model ___________________________________________________ 554
+3.3 Centralized Operating Model _________________________________________________ 555
+3.4 Hybrid Operating Model ____________________________________________________ 556
+3.5 Federated Operating Model __________________________________________________ 557
+3.6 Identifying the Best Model for an Organization __________________________________ 557
+3.7 DMO Alternatives and Design Considerations ___________________________________ 558
+4. Critical Success Factors __________________________________________________ 559
+4.1 Executive Sponsorship ______________________________________________________ 559
+4.2 Clear Vision _______________________________________________________________ 559
+4.3 Proactive Change Management _______________________________________________ 559
+4.4 Leadership Alignment ______________________________________________________ 560
+4.5 Communication ____________________________________________________________ 560
+4.6 Stakeholder Engagement ____________________________________________________ 560
+4.7 Orientation and Training ____________________________________________________ 560
+4.8 Adoption Measurement _____________________________________________________ 561
+4.9 Adherence to Guiding Principles ______________________________________________ 561
+4.10 Evolution Not Revolution __________________________________________________ 561
+5. Build the Data Management Organization ___________________________________ 562
+5.1 Identify Current Data Management Participants _________________________________ 562
+5.2 Identify Committee Participants ______________________________________________ 562
+5.3 Identify and Analyze Stakeholders ____________________________________________ 563
+5.4 Involve the Stakeholders ____________________________________________________ 563
+6. Interactions Between the DMO and Other Data-oriented Bodies ________________ 564
+6.1 The Chief Data Officer_______________________________________________________ 564
+6.2 Data Governance ___________________________________________________________ 565
+6.3 Data Quality _______________________________________________________________ 566
+6.4 Enterprise Architecture _____________________________________________________ 566
+6.5 Managing a Global Organization ______________________________________________ 567
+7. Data Management Roles _________________________________________________ 568
+7.1 Organizational Roles _______________________________________________________ 568
+7.2 Individual Roles ___________________________________________________________ 568
+8. Works Cited / Recommended _____________________________________________ 571
+

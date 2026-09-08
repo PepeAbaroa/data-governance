@@ -1,0 +1,58 @@
+# página 16 — de Dama-dmbok-data-management-body-of-knowledge-2nd-edition.pdf
+
+12 • DMBOK2 
+Figure 54 Context Diagram: Data Storage and Operations _____________________________________________ 170 
+Figure 55 Centralized vs. Distributed ____________________________________________________________ 175 
+Figure 56 Federated Databases ________________________________________________________________ 176 
+Figure 57 Coupling __________________________________________________________________________ 177 
+Figure 58 CAP Theorem ______________________________________________________________________ 180 
+Figure 59 Database Organization Spectrum _______________________________________________________ 184 
+Figure 60 Log Shipping vs. Mirroring ____________________________________________________________ 192 
+Figure 61 SLAs for System and Database Performance _______________________________________________ 203 
+Figure 62 Sources of Data Security Requirements ___________________________________________________ 218 
+Figure 63 Context Diagram: Data Security _________________________________________________________ 219 
+Figure 64 DMZ Example ______________________________________________________________________ 231 
+Figure 65 Security Role Hierarchy Example Diagram ________________________________________________ 251 
+Figure 66 Context Diagram: Data Integration and Interoperability ______________________________________ 271 
+Figure 67 ETL Process Flow ___________________________________________________________________ 274 
+Figure 68 ELT Process Flow ___________________________________________________________________ 275 
+Figure 69 Application Coupling ________________________________________________________________ 282 
+Figure 70 Enterprise Service Bus _______________________________________________________________ 283 
+Figure 71 Context Diagram: Documents and Content ________________________________________________ 304 
+Figure 72 Document Hierarchy based on ISO 9001-4.2 _______________________________________________ 317 
+Figure 73 Electronic Discovery Reference Model ___________________________________________________ 319 
+Figure 74 Information Governance Reference Model_________________________________________________ 341 
+Figure 75 Context Diagram: Reference and Master Data ______________________________________________ 348 
+Figure 76 Key Processing Steps for MDM _________________________________________________________ 361 
+Figure 77 Master Data Sharing Architecture Example ________________________________________________ 370 
+Figure 78 Reference Data Change Request Process __________________________________________________ 377 
+Figure 79 Context Diagram: DW/BI _____________________________________________________________ 382 
+Figure 80 The Corporate Information Factory ______________________________________________________ 388 
+Figure 81 Kimball's Data Warehouse Chess Pieces __________________________________________________ 390 
+Figure 82 Conceptual DW/BI and Big Data Architecture ______________________________________________ 391 
+Figure 83 Release Process Example _____________________________________________________________ 400 
+Figure 84 Context Diagram: Metadata ____________________________________________________________ 419 
+Figure 85 Centralized Metadata Architecture ______________________________________________________ 432 
+Figure 86 Distributed Metadata Architecture ______________________________________________________ 433 
+Figure 87 Hybrid Metadata Architecture __________________________________________________________ 434 
+Figure 88 Example Metadata Repository Metamodel ________________________________________________ 437 
+Figure 89 Sample Data Element Lineage Flow Diagram _______________________________________________ 442 
+Figure 90 Sample System Lineage Flow Diagram ___________________________________________________ 442 
+Figure 91 Context Diagram: Data Quality _________________________________________________________ 451 
+Figure 92 Relationship Between Data Quality Dimensions ____________________________________________ 460 
+Figure 93 A Data Quality Management Cycle Based on the Shewhart Chart ________________________________ 463 
+Figure 94 Barriers to Managing Information as a Business Asset ________________________________________ 467 
+Figure 95 Control Chart of a Process in Statistical Control _____________________________________________ 489 
+Figure 96 Abate Information Triangle ____________________________________________________________ 498 
+Figure 97 Context Diagram: Big Data and Data Science _______________________________________________ 499 
+Figure 98 Data Science Process ________________________________________________________________ 501 
+Figure 99 Data Storage Challenges ______________________________________________________________ 503 
+Figure 100 Conceptual DW/BI and Big Data Architecture _____________________________________________ 504 
+Figure 101 Services-based Architecture __________________________________________________________ 506 
+Figure 102 Columnar Appliance Architecture ______________________________________________________ 519 
+Figure 103 Context Diagram: Data Management Maturity Assessment ___________________________________ 533 
+Figure 104 Data Management Maturity Model Example ______________________________________________ 535 
+Figure 105 Example of a Data Management Maturity Assessment Visualization _____________________________ 537 
+Figure 106 Assess Current State to Create an Operating Model _________________________________________ 552 
+Figure 107 Decentralized Operating Model ________________________________________________________ 554 
+

@@ -1,0 +1,49 @@
+# página 5 — de Dama-dmbok-data-management-body-of-knowledge-2nd-edition.pdf
+
+1 
+Contents 
+Preface _________________________________________________________ 15
+Chapter 1: Data Management _______________________________________ 17
+1. Introduction ____________________________________________________________ 17
+2. Essential Concepts _______________________________________________________ 18
+2.1 Data ______________________________________________________________________ 18
+2.2 Data and Information ________________________________________________________ 20
+2.3 Data as an Organizational Asset _______________________________________________ 20
+2.4 Data Management Principles __________________________________________________ 21
+2.5 Data Management Challenges _________________________________________________ 23
+2.6 Data Management Strategy ___________________________________________________ 31
+3. Data Management Frameworks ____________________________________________ 33
+3.1 Strategic Alignment Model ____________________________________________________ 33
+3.2 The Amsterdam Information Model ____________________________________________ 34
+3.3 The DAMA-DMBOK Framework _______________________________________________ 35
+3.4 DMBOK Pyramid (Aiken) _____________________________________________________ 39
+3.5 DAMA Data Management Framework Evolved ___________________________________ 40
+4. DAMA and the DMBOK ___________________________________________________ 43
+5. Works Cited / Recommended ______________________________________________ 46
+Chapter 2: Data Handling Ethics ____________________________________ 49
+1. Introduction ____________________________________________________________ 49
+2. Business Drivers ________________________________________________________ 51
+3. Essential Concepts _______________________________________________________ 52
+3.1 Ethical Principles for Data ____________________________________________________ 52
+3.2 Principles Behind Data Privacy Law ____________________________________________ 53
+3.3 Online Data in an Ethical Context ______________________________________________ 56
+3.4 Risks of Unethical Data Handling Practices ______________________________________ 56
+3.5 Establishing an Ethical Data Culture ____________________________________________ 60
+3.6 Data Ethics and Governance __________________________________________________ 64
+4. Works Cited / Recommended ______________________________________________ 65
+Chapter 3: Data Governance ________________________________________ 67
+1. Introduction ____________________________________________________________ 67
+1.1 Business Drivers ____________________________________________________________ 70
+1.2 Goals and Principles _________________________________________________________ 71
+1.3 Essential Concepts __________________________________________________________ 72
+2. Activities _______________________________________________________________ 79
+2.1 Define Data Governance for the Organization ____________________________________ 79
+2.2 Perform Readiness Assessment _______________________________________________ 79
+2.3 Perform Discovery and Business Alignment _____________________________________ 80
+2.4 Develop Organizational Touch Points ___________________________________________ 81
+2.5 Develop Data Governance Strategy _____________________________________________ 82
+2.6 Define the DG Operating Framework ___________________________________________ 82
+2.7 Develop Goals, Principles, and Policies __________________________________________ 83
+2.8 Underwrite Data Management Projects _________________________________________ 84
+2.9 Engage Change Management __________________________________________________ 85
+

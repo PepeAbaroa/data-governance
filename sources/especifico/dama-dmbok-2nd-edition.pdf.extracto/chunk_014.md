@@ -1,0 +1,58 @@
+# página 15 — de Dama-dmbok-data-management-body-of-knowledge-2nd-edition.pdf
+
+11 
+Figures 
+Figure 1 Data Management Principles ____________________________________________________________ 22 
+Figure 2 Data Lifecycle Key Activities_____________________________________________________________ 29 
+Figure 3 Strategic Alignment Model (Henderson and Venkatraman) _____________________________________ 34 
+Figure 4 Amsterdam Information Model (adapted) __________________________________________________ 35 
+Figure 5 The DAMA-DMBOK2 Data Management Framework (The DAMA Wheel) ___________________________ 36 
+Figure 6 DAMA Environmental Factors Hexagon ____________________________________________________ 36 
+Figure 7 Knowledge Area Context Diagram ________________________________________________________ 37 
+Figure 8 Purchased or Built Database Capability ____________________________________________________ 40 
+Figure 9 DAMA Functional Area Dependencies _____________________________________________________ 41 
+Figure 10 DAMA Data Management Function Framework _____________________________________________ 42 
+Figure 11 DAMA Wheel Evolved ________________________________________________________________ 44 
+Figure 12 Context Diagram: Data Handling Ethics ___________________________________________________ 50 
+Figure 13 Ethical Risk Model for Sampling Projects __________________________________________________ 64 
+Figure 14 Context Diagram: Data Governance and Stewardship _________________________________________ 69 
+Figure 15 Data Governance and Data Management __________________________________________________ 72 
+Figure 16 Data Governance Organization Parts _____________________________________________________ 74 
+Figure 17 Enterprise DG Operating Framework Examples _____________________________________________ 75 
+Figure 18 CDO Organizational Touch Points ________________________________________________________ 81 
+Figure 19 An Example of an Operating Framework __________________________________________________ 83 
+Figure 20 Data Issue Escalation Path _____________________________________________________________ 86 
+Figure 21 Context Diagram: Data Architecture _____________________________________________________ 100 
+Figure 22 Simplified Zachman Framework ________________________________________________________ 103 
+Figure 23 Enterprise Data Model _______________________________________________________________ 106 
+Figure 24 Subject Area Models Diagram Example ___________________________________________________ 107 
+Figure 25 Data Flow Depicted in a Matrix ________________________________________________________ 108 
+Figure 26 Data Flow Diagram Example __________________________________________________________ 109 
+Figure 27 The Data Dependencies of Business Capabilities ____________________________________________ 112 
+Figure 28 Context Diagram: Data Modeling and Design ______________________________________________ 124 
+Figure 29 Entities __________________________________________________________________________ 129 
+Figure 30 Relationships ______________________________________________________________________ 130 
+Figure 31 Cardinality Symbols _________________________________________________________________ 131 
+Figure 32 Unary Relationship - Hierarchy ________________________________________________________ 131 
+Figure 33 Unary Relationship - Network _________________________________________________________ 131 
+Figure 34 Binary Relationship _________________________________________________________________ 132 
+Figure 35 Ternary Relationship ________________________________________________________________ 132 
+Figure 36 Foreign Keys ______________________________________________________________________ 133 
+Figure 37 Attributes ________________________________________________________________________ 133 
+Figure 38 Dependent and Independent Entity _____________________________________________________ 134 
+Figure 39 IE Notation _______________________________________________________________________ 137 
+Figure 40 Axis Notation for Dimensional Models ___________________________________________________ 138 
+Figure 41 UML Class Model ___________________________________________________________________ 140 
+Figure 42 ORM Model _______________________________________________________________________ 141 
+Figure 43 FCO-IM Model _____________________________________________________________________ 142 
+Figure 44 Data Vault Model ___________________________________________________________________ 143 
+Figure 45 Anchor Model _____________________________________________________________________ 143 
+Figure 46 Relational Conceptual Model __________________________________________________________ 145 
+Figure 47 Dimensional Conceptual Model ________________________________________________________ 146 
+Figure 48 Relational Logical Data Model _________________________________________________________ 146 
+Figure 49 Dimensional Logical Data Model _______________________________________________________ 147 
+Figure 50 Relational Physical Data Model ________________________________________________________ 148 
+Figure 51 Dimensional Physical Data Model _______________________________________________________ 149 
+Figure 52 Supertype and Subtype Relationships ___________________________________________________ 152 
+Figure 53 Modeling is Iterative ________________________________________________________________ 153 
+

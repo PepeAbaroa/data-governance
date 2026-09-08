@@ -1,0 +1,641 @@
+# ÍNDICE TOTAL — Dama-dmbok-data-management-body-of-knowledge-2nd-edition.pdf
+
+Inventario completo (nada omitido). Cargar al contexto este índice SIEMPRE;
+los chunks, solo el que la tarea toque.
+
+## Inventario
+- Páginas: 628
+- Imágenes totales: 701
+
+## Mapa de chunks
+- `chunk_000.md` — página 1 (28 chars) · «[1 imágenes en esta página]…»
+- `chunk_001.md` — página 2 (152 chars) · «DAMA-DMBOK  DATA MANAGEMENT BODY OF KNOWLEDGE  SECOND EDITION  DAMA International  Technic…»
+- `chunk_002.md` — página 3 (1703 chars) · «Dedicated to the memory of  Patricia Cupoli, MLS, MBA, CCP, CDMP  (May 25, 1948 – July 28,…»
+- `chunk_003.md` — página 4 (0 chars) · «…»
+- `chunk_004.md` — página 5 (3650 chars) · «1  Contents  Preface _________________________________________________________ 15 Chapter …»
+- `chunk_005.md` — página 6 (3919 chars) · «2 • DMBOK2  2.10 Engage in Issue Management ______________________________________________…»
+- `chunk_006.md` — página 7 (3935 chars) · «CONTENTS • 3  2.2 Build the Data Model ___________________________________________________…»
+- `chunk_007.md` — página 8 (4057 chars) · «4 • DMBOK2  2. Activities _____________________________________________________________ 24…»
+- `chunk_008.md` — página 9 (3925 chars) · «CONTENTS • 5  5. Implementation Guidelines _______________________________________________…»
+- `chunk_009.md` — página 10 (3922 chars) · «6 • DMBOK2  4.3 Manage Reference Data Change _____________________________________________…»
+- `chunk_010.md` — página 11 (4068 chars) · «CONTENTS • 7  2.4 Create and Maintain Metadata____________________________________________…»
+- `chunk_011.md` — página 12 (3940 chars) · «8 • DMBOK2  7. Works Cited / Recommended ____________________________________________ 494 …»
+- `chunk_012.md` — página 13 (4036 chars) · «CONTENTS • 9  3. Tools _________________________________________________________________ 5…»
+- `chunk_013.md` — página 14 (3209 chars) · «10 • DMBOK2  Chapter 17: Data Management and Organizational Change Management __ 573 1. In…»
+- `chunk_014.md` — página 15 (5405 chars) · «11  Figures  Figure 1 Data Management Principles _________________________________________…»
+- `chunk_015.md` — página 16 (5603 chars) · «12 • DMBOK2  Figure 54 Context Diagram: Data Storage and Operations ______________________…»
+- `chunk_016.md` — página 17 (5274 chars) · «FIGURES AND TABLES • 13  Figure 108 Network Operating Model ______________________________…»
+- `chunk_017.md` — página 18 (0 chars) · «…»
+- `chunk_018.md` — página 19 (2423 chars) · «15  Preface  AMA International is pleased to release the second edition of the DAMA Guide …»
+- `chunk_019.md` — página 20 (0 chars) · «…»
+- `chunk_020.md` — página 21 (2566 chars) · «17  C H A P T E R  1 Data Management  1. Introduction any organizations recognize that the…»
+- `chunk_021.md` — página 22 (2382 chars) · «18 • DMBOK2  Management Body of Knowledge (DMBOK2). This edition builds on the first one, …»
+- `chunk_022.md` — página 23 (4036 chars) · «DATA MANAGEMENT • 19  not limited to information that has been digitized and data manageme…»
+- `chunk_023.md` — página 24 (3056 chars) · «20 • DMBOK2  organizational success. But the rapid growth of technology and with it human …»
+- `chunk_024.md` — página 25 (3250 chars) · «DATA MANAGEMENT • 21  organizations also need high quality data to guide their operational…»
+- `chunk_025.md` — página 26 (1874 chars) · «22 • DMBOK2  Figure 1 Data Management Principles  • It takes planning to manage data: Even…»
+- `chunk_026.md` — página 27 (2887 chars) · «DATA MANAGEMENT • 23  • Data management is lifecycle management: Data has a lifecycle and …»
+- `chunk_027.md` — página 28 (2843 chars) · «24 • DMBOK2  These differences make it challenging to put a monetary value on data. Withou…»
+- `chunk_028.md` — página 29 (3344 chars) · «DATA MANAGEMENT • 25  A primary challenge to data asset valuation is that the value of dat…»
+- `chunk_029.md` — página 30 (2229 chars) · «26 • DMBOK2  • Organizational inefficiencies or low productivity • Organizational conflict…»
+- `chunk_030.md` — página 31 (3230 chars) · «DATA MANAGEMENT • 27  2.5.5 Metadata and Data Management  Organizations require reliable M…»
+- `chunk_031.md` — página 32 (3224 chars) · «28 • DMBOK2  One reason data governance has become increasingly important is to help organ…»
+- `chunk_032.md` — página 33 (1919 chars) · «DATA MANAGEMENT • 29  Figure 2 Data Lifecycle Key Activities  • Data Quality must be manag…»
+- `chunk_033.md` — página 34 (3356 chars) · «30 • DMBOK2  can be classified by type of data (e.g., transactional data, Reference Data, …»
+- `chunk_034.md` — página 35 (3079 chars) · «DATA MANAGEMENT • 31  2.5.12 Data Management and Technology  As noted in the chapter intro…»
+- `chunk_035.md` — página 36 (2465 chars) · «32 • DMBOK2  A data strategy should include business plans to use information to competiti…»
+- `chunk_036.md` — página 37 (2762 chars) · «DATA MANAGEMENT • 33  The data management strategy should address all DAMA Data Management…»
+- `chunk_037.md` — página 38 (2220 chars) · «34 • DMBOK2  technology and processes which support physical management of systems that ma…»
+- `chunk_038.md` — página 39 (1712 chars) · «DATA MANAGEMENT • 35  Figure 4 Amsterdam Information Model14  3.3 The DAMA-DMBOK Framework…»
+- `chunk_039.md` — página 40 (766 chars) · «36 • DMBOK2  Figure 5 The DAMA-DMBOK2 Data Management Framework (The DAMA Wheel)  Figure 6…»
+- `chunk_040.md` — página 41 (1960 chars) · «DATA MANAGEMENT • 37  management (Suppliers, Inputs, Processes, Outputs, and Consumers). C…»
+- `chunk_041.md` — página 42 (2427 chars) · «38 • DMBOK2  The component pieces of the context diagram include:  1. Definition: This sec…»
+- `chunk_042.md` — página 43 (3114 chars) · «DATA MANAGEMENT • 39  10. Tools are the applications and other technologies that enable th…»
+- `chunk_043.md` — página 44 (1641 chars) · «40 • DMBOK2  Management, Master Data Management, Data Warehousing, and Business Intelligen…»
+- `chunk_044.md` — página 45 (1717 chars) · «DATA MANAGEMENT • 41  model includes Metadata Management, data security, Data Architecture…»
+- `chunk_045.md` — página 46 (1219 chars) · «42 • DMBOK2  that support emerging uses of data (Data Science, predictive analytics, etc.)…»
+- `chunk_046.md` — página 47 (3103 chars) · «DATA MANAGEMENT • 43  management, Metadata, and Data Quality management, span the data lif…»
+- `chunk_047.md` — página 48 (605 chars) · «44 • DMBOK2  Figure 11 DAMA Wheel Evolved   DAMA was founded to address these challenges. …»
+- `chunk_048.md` — página 49 (2339 chars) · «DATA MANAGEMENT • 45  • Serving as the fundamental reference guide for the CDMP (Certified…»
+- `chunk_049.md` — página 50 (2796 chars) · «46 • DMBOK2  8. Reference and Master Data includes ongoing reconciliation and maintenance …»
+- `chunk_050.md` — página 51 (3387 chars) · «DATA MANAGEMENT • 47  Adelman, Sid, Larissa Moss, and Majid Abai. Data Strategy. Addison-W…»
+- `chunk_051.md` — página 52 (1190 chars) · «48 • DMBOK2  Redman, Thomas. Data Driven: Profiting from Your Most Important Business Asse…»
+- `chunk_052.md` — página 53 (2712 chars) · «49  C H A P T E R  2 Data Handling Ethics  1. Introduction efined simply, ethics are princ…»
+- `chunk_053.md` — página 54 (2209 chars) · «50 • DMBOK2  risk that it may misrepresent, be misused, or be misunderstood. This responsi…»
+- `chunk_054.md` — página 55 (2900 chars) · «DATA HANDLING ETHICS • 51  Unfortunately, many organizations fail to recognize and respond…»
+- `chunk_055.md` — página 56 (3023 chars) · «52 • DMBOK2  3. Essential Concepts 3.1 Ethical Principles for Data  The accepted tenets of…»
+- `chunk_056.md` — página 57 (3468 chars) · «DATA HANDLING ETHICS • 53  called for a focus on data processing that upholds human dignit…»
+- `chunk_057.md` — página 58 (2993 chars) · «54 • DMBOK2  The OECD principles have since been superseded by principles underlying the G…»
+- `chunk_058.md` — página 59 (3353 chars) · «DATA HANDLING ETHICS • 55  Table 2 Canadian Privacy Statutory Obligations  PIPEDA Principl…»
+- `chunk_059.md` — página 60 (2594 chars) · «56 • DMBOK2  These principles are developed to embody the concepts in the OECD Fair Inform…»
+- `chunk_060.md` — página 61 (3167 chars) · «DATA HANDLING ETHICS • 57  while creating a veneer of factuality. Methods include judiciou…»
+- `chunk_061.md` — página 62 (3231 chars) · «58 • DMBOK2  programs, which include “anyone residing in a household in which one or more …»
+- `chunk_062.md` — página 63 (3374 chars) · «DATA HANDLING ETHICS • 59  • Biased use of data collected: Data may be collected with limi…»
+- `chunk_063.md` — página 64 (3104 chars) · «60 • DMBOK2  • Unreliable Metadata: Data consumers depend on reliable Metadata, including …»
+- `chunk_064.md` — página 65 (3201 chars) · «DATA HANDLING ETHICS • 61  behaviors. As with other initiatives related to governing data …»
+- `chunk_065.md` — página 66 (3017 chars) · «62 • DMBOK2  • Risk: If there is wide access to the personal health data of patients, then…»
+- `chunk_066.md` — página 67 (2864 chars) · «DATA HANDLING ETHICS • 63  • Approach to auditing and monitoring: Ethical ideas and the co…»
+- `chunk_067.md` — página 68 (1949 chars) · «64 • DMBOK2  Because data analytics projects are complex, people may not see the ethical c…»
+- `chunk_068.md` — página 69 (3145 chars) · «DATA HANDLING ETHICS • 65  DAMA International’s Certified Data Management Professional (CD…»
+- `chunk_069.md` — página 70 (1435 chars) · «66 • DMBOK2  ProPublica (website). “Machine Bias: Algorithmic injustice and the formulas t…»
+- `chunk_070.md` — página 71 (1246 chars) · «67  C H A P T E R  3 Data Governance  1. Introduction ata Governance (DG) is defined as th…»
+- `chunk_071.md` — página 72 (3121 chars) · «68 • DMBOK2  decisions are made about data and how people and processes are expected to be…»
+- `chunk_072.md` — página 73 (3065 chars) · «DATA GOVERNANCE • 69  Creasey, 2012). When data governance and data management demand sign…»
+- `chunk_073.md` — página 74 (3136 chars) · «70 • DMBOK2  1.1 Business Drivers  The most common driver for data governance is often reg…»
+- `chunk_074.md` — página 75 (3245 chars) · «DATA GOVERNANCE • 71  principles of other types of governance to the governance of data. A…»
+- `chunk_075.md` — página 76 (2031 chars) · «72 • DMBOK2  • Leadership and strategy: Successful Data Governance starts with visionary a…»
+- `chunk_076.md` — página 77 (3247 chars) · «DATA GOVERNANCE • 73  1.3.1 Data-centric Organization  A data-centric organization values …»
+- `chunk_077.md` — página 78 (2346 chars) · «74 • DMBOK2  Figure 16 Data Governance Organization Parts  Table 4 Typical Data Governance…»
+- `chunk_078.md` — página 79 (1395 chars) · «DATA GOVERNANCE • 75  1.3.3 Data Governance Operating Model Types  In a centralized model,…»
+- `chunk_079.md` — página 80 (2950 chars) · «76 • DMBOK2  descriptions, or it can be a less formal function driven by people trying to …»
+- `chunk_080.md` — página 81 (3171 chars) · «DATA GOVERNANCE • 77  • Business Data Stewards are business professionals, most often reco…»
+- `chunk_081.md` — página 82 (2766 chars) · «78 • DMBOK2  Most phases of the data lifecycle involve costs (including acquiring, storing…»
+- `chunk_082.md` — página 83 (2310 chars) · «DATA GOVERNANCE • 79  Principle  Description  Level of Valuation  Principle  Value the dat…»
+- `chunk_083.md` — página 84 (3148 chars) · «80 • DMBOK2  • Data management maturity: Understand what the organization does with data; …»
+- `chunk_084.md` — página 85 (2054 chars) · «DATA GOVERNANCE • 81  2.4 Develop Organizational Touch Points  Part of alignment includes …»
+- `chunk_085.md` — página 86 (3060 chars) · «82 • DMBOK2  2.5 Develop Data Governance Strategy  A data governance strategy defines the …»
+- `chunk_086.md` — página 87 (1296 chars) · «DATA GOVERNANCE • 83  pathways through governance. Figure 19 shows an example of an operat…»
+- `chunk_087.md` — página 88 (2852 chars) · «84 • DMBOK2  Policies may take different shapes, as in the following examples:  • The Data…»
+- `chunk_088.md` — página 89 (2862 chars) · «DATA GOVERNANCE • 85  2.9 Engage Change Management  Organizational Change Management (OCM)…»
+- `chunk_089.md` — página 90 (2245 chars) · «86 • DMBOK2  o Awareness of the need to change o Desire to participate and support the cha…»
+- `chunk_090.md` — página 91 (2742 chars) · «DATA GOVERNANCE • 87  Data governance requires control mechanisms and procedures for:  • I…»
+- `chunk_091.md` — página 92 (2539 chars) · «88 • DMBOK2  • In what ways is a regulation relevant to the organization? • What constitut…»
+- `chunk_092.md` — página 93 (3333 chars) · «DATA GOVERNANCE • 89  set of assertions (the standard). It does not need to make the same …»
+- `chunk_093.md` — página 94 (2570 chars) · «90 • DMBOK2  • Reference and Master Data: Reference Data Management control procedures, sy…»
+- `chunk_094.md` — página 95 (2839 chars) · «DATA GOVERNANCE • 91  maintained jointly by data architects and Data Stewards working toge…»
+- `chunk_095.md` — página 96 (2561 chars) · «92 • DMBOK2  3. Tools and Techniques Data governance is fundamentally about organizational…»
+- `chunk_096.md` — página 97 (2031 chars) · «DATA GOVERNANCE • 93  3.3 Workflow Tools  Larger organizations may want to consider a robu…»
+- `chunk_097.md` — página 98 (2181 chars) · «94 • DMBOK2  The target of organization change is sustainability. Sustainability is a qual…»
+- `chunk_098.md` — página 99 (2895 chars) · «DATA GOVERNANCE • 95  o Speed of change adoption • Sustainability o Performance of policie…»
+- `chunk_099.md` — página 100 (1867 chars) · «96 • DMBOK2  McGilvray, Danette. Executing Data Quality Projects: Ten Steps to Quality Dat…»
+- `chunk_100.md` — página 101 (1023 chars) · «C H A P T E R  4 Data Architecture  1. Introduction rchitecture refers to the art and scie…»
+- `chunk_101.md` — página 102 (3342 chars) · «98 • DMBOK2  fundamental organization of a system, embodied in its components, their relat…»
+- `chunk_102.md` — página 103 (2670 chars) · «DATA ARCHITECTURE • 99  Data Architecture is most valuable when it fully supports the need…»
+- `chunk_103.md` — página 104 (1991 chars) · «100 • DMBOK2  1.2 Data Architecture Outcomes and Practices  Primary Data Architecture outc…»
+- `chunk_104.md` — página 105 (2251 chars) · «DATA ARCHITECTURE • 101  Architects seek to design in a way that brings value to the organ…»
+- `chunk_105.md` — página 106 (2316 chars) · «102 • DMBOK2  Domain  Enterprise  Business  Architecture  Enterprise Data  Architecture  E…»
+- `chunk_106.md` — página 107 (3141 chars) · «DATA ARCHITECTURE • 103  Figure 22 Simplified Zachman Framework  The two dimensions in the…»
+- `chunk_107.md` — página 108 (2916 chars) · «104 • DMBOK2  • The architect perspective (business logic): System logical models detailin…»
+- `chunk_108.md` — página 109 (3238 chars) · «DATA ARCHITECTURE • 105  These two types of specifications need to fit well together. As m…»
+- `chunk_109.md` — página 110 (1620 chars) · «106 • DMBOK2  An enterprise data model at all levels is developed using data modeling tech…»
+- `chunk_110.md` — página 111 (1859 chars) · «DATA ARCHITECTURE • 107  approaches is usually recommended; starting with bottom-up using …»
+- `chunk_111.md` — página 112 (1649 chars) · «108 • DMBOK2  Data flows map and document relationships between data and  • Applications w…»
+- `chunk_112.md` — página 113 (1179 chars) · «DATA ARCHITECTURE • 109  working with business capabilities could show this in the same wa…»
+- `chunk_113.md` — página 114 (2927 chars) · «110 • DMBOK2  • Quality-oriented: Focus on improving execution within business and IT deve…»
+- `chunk_114.md` — página 115 (2623 chars) · «DATA ARCHITECTURE • 111  Enterprise Data Architecture also influences the scope boundaries…»
+- `chunk_115.md` — página 116 (1849 chars) · «112 • DMBOK2  describes how the target architecture will become reality. The Enterprise Da…»
+- `chunk_116.md` — página 117 (2729 chars) · «DATA ARCHITECTURE • 113  Therefore, the roadmap would ideally advise starting at Product M…»
+- `chunk_117.md` — página 118 (3039 chars) · «114 • DMBOK2  to be shareable or reusable need to be incorporated into the enterprise logi…»
+- `chunk_118.md` — página 119 (2108 chars) · «DATA ARCHITECTURE • 115  2.2 Integrate with Enterprise Architecture  The work of developin…»
+- `chunk_119.md` — página 120 (2220 chars) · «116 • DMBOK2  4. Techniques 4.1 Lifecycle Projections  Architecture designs can be aspirat…»
+- `chunk_120.md` — página 121 (2875 chars) · «DATA ARCHITECTURE • 117  • Linear symmetry: Diagrams with objects placed in lines and colu…»
+- `chunk_121.md` — página 122 (3004 chars) · «118 • DMBOK2  where Enterprise Data Architects produce blueprints and templates to be used…»
+- `chunk_122.md` — página 123 (2837 chars) · «DATA ARCHITECTURE • 119  5.2 Organization and Cultural Change  The speed with which an org…»
+- `chunk_123.md` — página 124 (2475 chars) · «120 • DMBOK2  6.1 Metrics  Performance metrics on Enterprise Data Architecture reflect the…»
+- `chunk_124.md` — página 125 (3212 chars) · «DATA ARCHITECTURE • 121  Cook, Melissa. Building Enterprise Information Architectures: Re-…»
+- `chunk_125.md` — página 126 (2 chars) · «…»
+- `chunk_126.md` — página 127 (942 chars) · «C H A P T E R  5 Data Modeling and Design  1. Introduction ata modeling is the process of …»
+- `chunk_127.md` — página 128 (2404 chars) · «124 • DMBOK2  There are a number of different schemes used to represent data. The six most…»
+- `chunk_128.md` — página 129 (2810 chars) · «DATA MODELING AND DESIGN • 125  Data models comprise and contain Metadata essential to dat…»
+- `chunk_129.md` — página 130 (2656 chars) · «126 • DMBOK2  understand data structure within the environment. In much the same way as th…»
+- `chunk_130.md` — página 131 (2649 chars) · «DATA MODELING AND DESIGN • 127  • Resource information: Basic profiles of resources needed…»
+- `chunk_131.md` — página 132 (2549 chars) · «128 • DMBOK2  Category  Definition  Examples  What  Product or service of interest to the …»
+- `chunk_132.md` — página 133 (2261 chars) · «DATA MODELING AND DESIGN • 129  in object-oriented schemes the terms class or object are o…»
+- `chunk_133.md` — página 134 (2252 chars) · «130 • DMBOK2  1.3.3.2.1 Relationship Aliases  The generic term relationship can go by othe…»
+- `chunk_134.md` — página 135 (1591 chars) · «DATA MODELING AND DESIGN • 131  These cardinality symbols are illustrated in the following…»
+- `chunk_135.md` — página 136 (1843 chars) · «132 • DMBOK2  This first example (Figure 32) is a hierarchy and the second (Figure 33) is …»
+- `chunk_136.md` — página 137 (2050 chars) · «DATA MODELING AND DESIGN • 133  Figure 36 Foreign Keys  1.3.3.3 Attribute  An attribute is…»
+- `chunk_137.md` — página 138 (2557 chars) · «134 • DMBOK2  A compound key is a set of two or more attributes that together uniquely ide…»
+- `chunk_138.md` — página 139 (2674 chars) · «DATA MODELING AND DESIGN • 135  Dependent entities have at least one identifying relations…»
+- `chunk_139.md` — página 140 (2269 chars) · «136 • DMBOK2  • Range: Domains that allow all values of the same data type that are betwee…»
+- `chunk_140.md` — página 141 (1774 chars) · «DATA MODELING AND DESIGN • 137  Table 10 Scheme to Database Cross Reference  Scheme  Relat…»
+- `chunk_141.md` — página 142 (1593 chars) · «138 • DMBOK2  1.3.4.2 Dimensional  The concept of dimensional modeling started from a join…»
+- `chunk_142.md` — página 143 (2186 chars) · «DATA MODELING AND DESIGN • 139  1.3.4.2.1 Fact Tables  Within a dimensional scheme, the ro…»
+- `chunk_143.md` — página 144 (2129 chars) · «140 • DMBOK2  1.3.4.2.5 Conformed Dimensions  Conformed dimensions are built with the enti…»
+- `chunk_144.md` — página 145 (2132 chars) · «DATA MODELING AND DESIGN • 141  The class has Operations or Methods (also called its “beha…»
+- `chunk_145.md` — página 146 (1903 chars) · «142 • DMBOK2  1.3.4.4.2 Fully Communication Oriented Modeling (FCO-IM)  FCO-IM is similar …»
+- `chunk_146.md` — página 147 (1007 chars) · «DATA MODELING AND DESIGN • 143  and knots. Anchors model entities and events, attributes m…»
+- `chunk_147.md` — página 148 (2320 chars) · «144 • DMBOK2  1.3.4.6.1 Document  Instead of taking a business subject and breaking it up …»
+- `chunk_148.md` — página 149 (2145 chars) · «DATA MODELING AND DESIGN • 145  • External: The various users of the database management s…»
+- `chunk_149.md` — página 150 (1270 chars) · «146 • DMBOK2  Figure 47 Dimensional Conceptual Model  1.3.5.2 Logical  A logical data mode…»
+- `chunk_150.md` — página 151 (730 chars) · «DATA MODELING AND DESIGN • 147  A dimensional logical data model is in many cases a fully-…»
+- `chunk_151.md` — página 152 (2388 chars) · «148 • DMBOK2  1.3.5.3 Physical  A physical data model (PDM) represents a detailed technica…»
+- `chunk_152.md` — página 153 (1233 chars) · «DATA MODELING AND DESIGN • 149  Figure 51 Dimensional Physical Data Model  1.3.5.3.2 Views…»
+- `chunk_153.md` — página 154 (2689 chars) · «150 • DMBOK2  • Horizontally split: To reduce query sets, create subset tables using the v…»
+- `chunk_154.md` — página 155 (2772 chars) · «DATA MODELING AND DESIGN • 151  comprises a separate normal form, and each successive leve…»
+- `chunk_155.md` — página 156 (2014 chars) · «152 • DMBOK2  The subtyping relationship implies that all of the properties from the super…»
+- `chunk_156.md` — página 157 (2076 chars) · «DATA MODELING AND DESIGN • 153  Student leaves and then returns, are they assigned a diffe…»
+- `chunk_157.md` — página 158 (2770 chars) · «154 • DMBOK2  • Select Scheme: Decide whether the data model should be built following a r…»
+- `chunk_158.md` — página 159 (3079 chars) · «DATA MODELING AND DESIGN • 155  Requirements analysis includes the elicitation, organizati…»
+- `chunk_159.md` — página 160 (2071 chars) · «156 • DMBOK2  attribute called phone number divides into several logical attributes for ph…»
+- `chunk_160.md` — página 161 (2406 chars) · «DATA MODELING AND DESIGN • 157  Define the physical domain, physical data type, and length…»
+- `chunk_161.md` — página 162 (2688 chars) · «158 • DMBOK2  select and define appropriate indexes for database tables. Major RDBMS produ…»
+- `chunk_162.md` — página 163 (2717 chars) · «DATA MODELING AND DESIGN • 159  2.4 Maintain the Data Models  Once the data models are bui…»
+- `chunk_163.md` — página 164 (2848 chars) · «160 • DMBOK2  3.3 Data Profiling Tools  A data profiling tool can help explore the data co…»
+- `chunk_164.md` — página 165 (2416 chars) · «DATA MODELING AND DESIGN • 161  reference for an organization’s in-progress efforts to hel…»
+- `chunk_165.md` — página 166 (2867 chars) · «162 • DMBOK2  • Reusability: The database structure should ensure that, where appropriate,…»
+- `chunk_166.md` — página 167 (2885 chars) · «DATA MODELING AND DESIGN • 163  • A list and description of standard data modeling and dat…»
+- `chunk_167.md` — página 168 (2248 chars) · «164 • DMBOK2  a change affects the logical data model, such as a new or changed business d…»
+- `chunk_168.md` — página 169 (3303 chars) · «DATA MODELING AND DESIGN • 165  presents the Model Score for the category divided by the T…»
+- `chunk_169.md` — página 170 (2736 chars) · «166 • DMBOK2  7. How well has the model been arranged for readability? Here we ensure the …»
+- `chunk_170.md` — página 171 (3448 chars) · «DATA MODELING AND DESIGN • 167  Codd, Edward F. “A Relational Model of Data for Large Shar…»
+- `chunk_171.md` — página 172 (3099 chars) · «168 • DMBOK2  Hoberman, Steve. Data Modeling Master Class Training Manual. 7th ed. Technic…»
+- `chunk_172.md` — página 173 (979 chars) · «C H A P T E R  6 Data Storage and Operations  1. Introduction ata Storage and Operations i…»
+- `chunk_173.md` — página 174 (2276 chars) · «170 • DMBOK2  • Database technology support includes defining technical requirements that …»
+- `chunk_174.md` — página 175 (2700 chars) · «DATA STORAGE AND OPERATIONS • 171  1.1 Business Drivers  Companies rely on their informati…»
+- `chunk_175.md` — página 176 (2731 chars) · «172 • DMBOK2  • Set expectations for the DBA role in project work: Ensuring project method…»
+- `chunk_176.md` — página 177 (2599 chars) · «DATA STORAGE AND OPERATIONS • 173  Data lifecycle management includes implementing policie…»
+- `chunk_177.md` — página 178 (2488 chars) · «174 • DMBOK2  As part of managing data operations, Production DBAs create the following de…»
+- `chunk_178.md` — página 179 (1910 chars) · «DATA STORAGE AND OPERATIONS • 175  1.3.3.4 NSA  Network Storage Administrators are concern…»
+- `chunk_179.md` — página 180 (2061 chars) · «176 • DMBOK2  management software is also designed to detect and handle failures. While an…»
+- `chunk_180.md` — página 181 (2008 chars) · «DATA STORAGE AND OPERATIONS • 177  Loosely coupled systems require component databases to …»
+- `chunk_181.md` — página 182 (3040 chars) · «178 • DMBOK2  service(s). Parallels are often drawn between the concept of cloud computing…»
+- `chunk_182.md` — página 183 (2029 chars) · «DATA STORAGE AND OPERATIONS • 179  1.3.5 Database Processing Types  There are two basic ty…»
+- `chunk_183.md` — página 184 (1835 chars) · «180 • DMBOK2  BASE-type systems are common in Big Data environments. Large online organiza…»
+- `chunk_184.md` — página 185 (2460 chars) · «DATA STORAGE AND OPERATIONS • 181  An interesting use of this theorem drives the Lambda Ar…»
+- `chunk_185.md` — página 186 (2525 chars) · «182 • DMBOK2  using compression – where the state (for example) is stored as a pointer to …»
+- `chunk_186.md` — página 187 (2922 chars) · «DATA STORAGE AND OPERATIONS • 183  Due to space and cost, it is usually not possible to ex…»
+- `chunk_187.md` — página 188 (2323 chars) · «184 • DMBOK2  1.3.7.2.3 Sandboxes or Experimental Environments  A sandbox is an alternate …»
+- `chunk_188.md` — página 189 (2566 chars) · «DATA STORAGE AND OPERATIONS • 185  parent/child relationships: each parent can have many c…»
+- `chunk_189.md` — página 190 (2771 chars) · «186 • DMBOK2  1.3.8.3 Non-relational  Non-relational databases can store data as simple st…»
+- `chunk_190.md` — página 191 (2374 chars) · «DATA STORAGE AND OPERATIONS • 187  layouts are well suited for Online Analytical Processin…»
+- `chunk_191.md` — página 192 (2413 chars) · «188 • DMBOK2  form of rows and columns, with no relationships or links between records and…»
+- `chunk_192.md` — página 193 (2462 chars) · «DATA STORAGE AND OPERATIONS • 189  • Computer Assisted Design and Manufacturing (CAD / CAM…»
+- `chunk_193.md` — página 194 (2569 chars) · «190 • DMBOK2  • Determine if or how much of the archive is required to be preserved. What …»
+- `chunk_194.md` — página 195 (2675 chars) · «DATA STORAGE AND OPERATIONS • 191  way to replicate data changes to a target without affec…»
+- `chunk_195.md` — página 196 (2079 chars) · «192 • DMBOK2  Replication transparency occurs when data is replicated between database ser…»
+- `chunk_196.md` — página 197 (2481 chars) · «DATA STORAGE AND OPERATIONS • 193  • Critical recovery refers to a plan to restore the sys…»
+- `chunk_197.md` — página 198 (2278 chars) · «194 • DMBOK2  stores and manages the data. Database Operations Support is specific to the …»
+- `chunk_198.md` — página 199 (2705 chars) · «DATA STORAGE AND OPERATIONS • 195  • Hardware platform and operating system support • Avai…»
+- `chunk_199.md` — página 200 (2396 chars) · «196 • DMBOK2  production and production environments. They will need to create and documen…»
+- `chunk_200.md` — página 201 (2313 chars) · «DATA STORAGE AND OPERATIONS • 197  • Transaction-based • Large data set write- or retrieva…»
+- `chunk_201.md` — página 202 (3130 chars) · «198 • DMBOK2  Each database should be evaluated for criticality so that its restoration ca…»
+- `chunk_202.md` — página 203 (2912 chars) · «DATA STORAGE AND OPERATIONS • 199  Data in file system databases may be easier to restore …»
+- `chunk_203.md` — página 204 (2623 chars) · «200 • DMBOK2  • During the configuration identification process, DBAs will work with data …»
+- `chunk_204.md` — página 205 (2607 chars) · «DATA STORAGE AND OPERATIONS • 201  • Controls: DBAs maintain information security by acces…»
+- `chunk_205.md` — página 206 (2774 chars) · «202 • DMBOK2  Most organizations also obtain some data from external third-party sources, …»
+- `chunk_206.md` — página 207 (2159 chars) · «DATA STORAGE AND OPERATIONS • 203  • Working with system programmers and network administr…»
+- `chunk_207.md` — página 208 (1673 chars) · «204 • DMBOK2  2.2.4.2 Manage Database Availability  Availability is the percentage of time…»
+- `chunk_208.md` — página 209 (2576 chars) · «DATA STORAGE AND OPERATIONS • 205  • Exploiting table space clustering and partitioning • …»
+- `chunk_209.md` — página 210 (3226 chars) · «206 • DMBOK2  each process locking resources needed by the other. Most DBMSs will automati…»
+- `chunk_210.md` — página 211 (2814 chars) · «DATA STORAGE AND OPERATIONS • 207  After the cause of the problem is identified, the DBA w…»
+- `chunk_211.md` — página 212 (3361 chars) · «208 • DMBOK2  Test data is data that has been specifically identified to test a system. Te…»
+- `chunk_212.md` — página 213 (2102 chars) · «DATA STORAGE AND OPERATIONS • 209  Automated and manual data remediation is commonly perfo…»
+- `chunk_213.md` — página 214 (1961 chars) · «210 • DMBOK2  4. Techniques 4.1 Test in Lower Environments  For upgrades and patches to op…»
+- `chunk_214.md` — página 215 (3427 chars) · «DATA STORAGE AND OPERATIONS • 211  • Data loss: Data can be lost through technical or proc…»
+- `chunk_215.md` — página 216 (1814 chars) · «212 • DMBOK2  should review data access code, stored procedures, views, and database funct…»
+- `chunk_216.md` — página 217 (2051 chars) · «DATA STORAGE AND OPERATIONS • 213  • Transaction frequency and quantity • Query performanc…»
+- `chunk_217.md` — página 218 (2460 chars) · «214 • DMBOK2  • Developing data monitoring methods • Applying statistical, geo-statistical…»
+- `chunk_218.md` — página 219 (2734 chars) · «DATA STORAGE AND OPERATIONS • 215  Liebowitz, Matt et al. VMware vSphere Performance: Desi…»
+- `chunk_219.md` — página 220 (2 chars) · «…»
+- `chunk_220.md` — página 221 (984 chars) · «C H A P T E R  7  Data Security  1. Introduction ata Security includes the planning, devel…»
+- `chunk_221.md` — página 222 (2532 chars) · «218 • DMBOK2  • Stakeholders: Organizations must recognize the privacy and confidentiality…»
+- `chunk_222.md` — página 223 (2113 chars) · «DATA SECURITY • 219  Figure 63 Context Diagram: Data Security   Definition: Definition, pl…»
+- `chunk_223.md` — página 224 (2814 chars) · «220 • DMBOK2  1.1 Business Drivers  Risk reduction and business growth are the primary dri…»
+- `chunk_224.md` — página 225 (3131 chars) · «DATA SECURITY • 221  • Identify how this information interacts with business processes: An…»
+- `chunk_225.md` — página 226 (2228 chars) · «222 • DMBOK2  If a common standard is enforced, this approach enables multiple departments…»
+- `chunk_226.md` — página 227 (2321 chars) · «DATA SECURITY • 223  1.3 Essential Concepts   Information security has a specific vocabula…»
+- `chunk_227.md` — página 228 (3076 chars) · «224 • DMBOK2  Risks can be prioritized by potential severity of damage to the company, or …»
+- `chunk_228.md` — página 229 (2867 chars) · «DATA SECURITY • 225  each other of data regulations, data loss threats, and data protectio…»
+- `chunk_229.md` — página 230 (2810 chars) · «226 • DMBOK2  • Authorization: Grant individuals privileges to access specific views of da…»
+- `chunk_230.md` — página 231 (2600 chars) · «DATA SECURITY • 227  1.3.8.1 Hash  Hash encryption uses algorithms to convert data into a …»
+- `chunk_231.md` — página 232 (2592 chars) · «228 • DMBOK2  environments. Persistent masking changes the data, but the data must still b…»
+- `chunk_232.md` — página 233 (2259 chars) · «DATA SECURITY • 229  • Randomization: Replace part or all of data elements with either ran…»
+- `chunk_233.md` — página 234 (2397 chars) · «230 • DMBOK2  Internet packets, performing illegal money transfers, and hosting fraudulent…»
+- `chunk_234.md` — página 235 (1920 chars) · «DATA SECURITY • 231  1.3.10.6 DMZ  Short for de-militarized zone, a DMZ is an area on the …»
+- `chunk_235.md` — página 236 (2468 chars) · «232 • DMBOK2  Some people are threatened by ethical hacking audits because they believe th…»
+- `chunk_236.md` — página 237 (2463 chars) · «DATA SECURITY • 233  spreadsheets, addresses, and documents that, if exposed, can be damag…»
+- `chunk_237.md` — página 238 (2616 chars) · «234 • DMBOK2  1.3.11.3.3 Password Standards  Passwords are the first line of defense in pr…»
+- `chunk_238.md` — página 239 (2771 chars) · «DATA SECURITY • 235  • Regulation: Regulatory categories are assigned based on external ru…»
+- `chunk_239.md` — página 240 (3121 chars) · «236 • DMBOK2  1.3.12.2 Regulated Data  Certain types of information are regulated by exter…»
+- `chunk_240.md` — página 241 (3412 chars) · «DATA SECURITY • 237  • Financially Sensitive Data: All financial information, including wh…»
+- `chunk_241.md` — página 242 (3147 chars) · «238 • DMBOK2  1.3.13 System Security Risks  The first step in identifying risk is identify…»
+- `chunk_242.md` — página 243 (3207 chars) · «DATA SECURITY • 239  system such as MS-Excel. Using MS-Excel and his legitimate login cred…»
+- `chunk_243.md` — página 244 (2713 chars) · «240 • DMBOK2  risk when they configure monitoring systems to ignore any alerts related to …»
+- `chunk_244.md` — página 245 (2581 chars) · «DATA SECURITY • 241  1.3.13.6 SQL Injection Vulnerability  In a SQL injection attack, a pe…»
+- `chunk_245.md` — página 246 (3175 chars) · «242 • DMBOK2  An ethical or ‘White Hat’ hacker works to improve a system. (‘White Hat’ ref…»
+- `chunk_246.md` — página 247 (2452 chars) · «DATA SECURITY • 243  disk space and possibly processing cycles that the system owner did n…»
+- `chunk_247.md` — página 248 (2189 chars) · «244 • DMBOK2  1.3.16.5 Worm  A computer worm is a program built to reproduce and spread ac…»
+- `chunk_248.md` — página 249 (2687 chars) · «DATA SECURITY • 245  Responding to a spam message will confirm to the sender that they hav…»
+- `chunk_249.md` — página 250 (2180 chars) · «246 • DMBOK2  Analyze business rules and processes to identify security touch points. Ever…»
+- `chunk_250.md` — página 251 (2625 chars) · «DATA SECURITY • 247  • Payment Card Industry Data Security Standard (PCI DSS), in the form…»
+- `chunk_251.md` — página 252 (2843 chars) · «248 • DMBOK2  Commonly, the IT Security Policy and Data Security Policy are part of a comb…»
+- `chunk_252.md` — página 253 (3417 chars) · «DATA SECURITY • 249  require from the enterprise. Often the regulations imply a goal, and …»
+- `chunk_253.md` — página 254 (2343 chars) · «250 • DMBOK2  multiple versions of the ‘truth’. To avoid data integrity issues, manage use…»
+- `chunk_254.md` — página 255 (1820 chars) · «DATA SECURITY • 251  • The sensitivity of the data stored or in transit • The requirements…»
+- `chunk_255.md` — página 256 (2653 chars) · «252 • DMBOK2  Document the requirements for allowing original user authorizations so de-au…»
+- `chunk_256.md` — página 257 (2858 chars) · «DATA SECURITY • 253  regulations, but with infrastructure systems. They will need to have …»
+- `chunk_257.md` — página 258 (3032 chars) · «254 • DMBOK2  Metadata. It can be implemented within a system or across dependent heteroge…»
+- `chunk_258.md` — página 259 (2690 chars) · «DATA SECURITY • 255  • Granular transaction tracking supports advanced fraud detection, fo…»
+- `chunk_259.md` — página 260 (2072 chars) · «256 • DMBOK2  • Analyzing policy and standards to assure that compliance controls are defi…»
+- `chunk_260.md` — página 261 (2512 chars) · «DATA SECURITY • 257  URL address when they are performing sensitive operations over the In…»
+- `chunk_261.md` — página 262 (2137 chars) · «258 • DMBOK2  the largest number of data loss incidents result from the lack of sensitive …»
+- `chunk_262.md` — página 263 (2445 chars) · «DATA SECURITY • 259  3.3.2.) These classifications can be used to define and manage user e…»
+- `chunk_263.md` — página 264 (2420 chars) · «260 • DMBOK2  • Criminal incidents and investigations • Due diligence examinations for com…»
+- `chunk_264.md` — página 265 (1999 chars) · «DATA SECURITY • 261  4.4.3 Data Protection Metrics   Requirements will dictate which of th…»
+- `chunk_265.md` — página 266 (2452 chars) · «262 • DMBOK2  4.6 Efficient Search of Encrypted Data  Searching encrypted data obviously i…»
+- `chunk_266.md` — página 267 (2856 chars) · «DATA SECURITY • 263  • Set security requirements for vendors: Include data security requir…»
+- `chunk_267.md` — página 268 (3027 chars) · «264 • DMBOK2  5.4 Data Security in an Outsourced World  Anything can be outsourced except …»
+- `chunk_268.md` — página 269 (2696 chars) · «DATA SECURITY • 265  In outsourcing information technology operations, the accountability …»
+- `chunk_269.md` — página 270 (2336 chars) · «266 • DMBOK2  component of enterprise architecture that describes how data security is imp…»
+- `chunk_270.md` — página 271 (1212 chars) · «DATA SECURITY • 267  Murdoch, Don GSE. Blue Team Handbook: Incident Response Edition: A co…»
+- `chunk_271.md` — página 272 (2 chars) · «…»
+- `chunk_272.md` — página 273 (946 chars) · «C H A P T E R  8  Data Integration and Interoperability  1. Introduction ata Integration a…»
+- `chunk_273.md` — página 274 (2671 chars) · «270 • DMBOK2  • Integration of vendor packages into an organization’s application portfoli…»
+- `chunk_274.md` — página 275 (3105 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 271  The advent of organizations purchasing applic…»
+- `chunk_275.md` — página 276 (2816 chars) · «272 • DMBOK2  The need to manage complexity and the costs associated with complexity are r…»
+- `chunk_276.md` — página 277 (2484 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 273  1.3 Essential Concepts  1.3.1 Extract, Transf…»
+- `chunk_277.md` — página 278 (1594 chars) · «274 • DMBOK2  • Semantic conversion: Conversion of data values to maintain consistent sema…»
+- `chunk_278.md` — página 279 (1614 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 275  transformations to occur after the load to th…»
+- `chunk_279.md` — página 280 (2931 chars) · «276 • DMBOK2  Data moving in batch mode will represent either the full set of data at a gi…»
+- `chunk_280.md` — página 281 (2812 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 277  In log-based change data captures, data activ…»
+- `chunk_281.md` — página 282 (3106 chars) · «278 • DMBOK2  of the applications that need the update are not available then the transact…»
+- `chunk_282.md` — página 283 (3263 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 279  Such a solution must synchronize the physical…»
+- `chunk_283.md` — página 284 (2584 chars) · «280 • DMBOK2  system or organization exchanging data. Each system needs to transform data …»
+- `chunk_284.md` — página 285 (2762 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 281  The hubs provide consistent views of the data…»
+- `chunk_285.md` — página 286 (1476 chars) · «282 • DMBOK2  coupling can be implemented using various techniques with services, APIs, or…»
+- `chunk_286.md` — página 287 (1780 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 283  1.3.7.3 Enterprise Application Integration (E…»
+- `chunk_287.md` — página 288 (3489 chars) · «284 • DMBOK2  The goal of service-oriented architecture is to have well-defined interactio…»
+- `chunk_288.md` — página 289 (2993 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 285  1.3.7.7 Data Federation and Virtualization  W…»
+- `chunk_289.md` — página 290 (2641 chars) · «286 • DMBOK2  1.3.8 Data Exchange Standards  Data Exchange Standards are formal rules for …»
+- `chunk_290.md` — página 291 (3069 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 287  Data integration and lifecycle requirements a…»
+- `chunk_291.md` — página 292 (2932 chars) · «288 • DMBOK2  Analysis of lineage may identify updates required to documentation of system…»
+- `chunk_292.md` — página 293 (2589 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 289  2.1.5 Collect Business Rules  Business rules …»
+- `chunk_293.md` — página 294 (2379 chars) · «290 • DMBOK2  2.2.1.1 Select Interaction Model  Determine which interaction model or combi…»
+- `chunk_294.md` — página 295 (2477 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 291  Transformation may be performed on a batch sc…»
+- `chunk_295.md` — página 296 (2662 chars) · «292 • DMBOK2  Developing real-time data integration flows involves monitoring for events t…»
+- `chunk_296.md` — página 297 (2947 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 293  Preparation and pre-processing of the histori…»
+- `chunk_297.md` — página 298 (2224 chars) · «294 • DMBOK2  Data interaction capabilities must be monitored and serviced at the same ser…»
+- `chunk_298.md` — página 299 (2765 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 295  The enterprise service bus implements incomin…»
+- `chunk_299.md` — página 300 (2158 chars) · «296 • DMBOK2  3.7 Metadata Repository  A Metadata repository contains information about th…»
+- `chunk_300.md` — página 301 (3254 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 297  Certain data projects can justify a data inte…»
+- `chunk_301.md` — página 302 (3095 chars) · «298 • DMBOK2  technical considerations in implementing business rules, a purely technical …»
+- `chunk_302.md` — página 303 (1987 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 299  required to ensure that knowledge of data ori…»
+- `chunk_303.md` — página 304 (3307 chars) · «300 • DMBOK2  Brackett, Michael. Data Resource Integration: Understanding and Resolving a …»
+- `chunk_304.md` — página 305 (940 chars) · «DATA INTEGRATION AND INTEROPERABILITY • 301  Sarkar, Pushpak. Data as a Service: A Framewo…»
+- `chunk_305.md` — página 306 (2 chars) · «…»
+- `chunk_306.md` — página 307 (1041 chars) · «C H A P T E R  9  Document and Content Management  1. Introduction ocument and Content Man…»
+- `chunk_307.md` — página 308 (2615 chars) · «304 • DMBOK2  roughly equivalent to data operations management for relational databases. H…»
+- `chunk_308.md` — página 309 (2761 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 305  1.1 Business Drivers  The primary business drivers …»
+- `chunk_309.md` — página 310 (2666 chars) · «306 • DMBOK2  • Experts in the handling of records and content should be fully engaged in …»
+- `chunk_310.md` — página 311 (2300 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 307  1.3 Essential Concepts  1.3.1 Content  A document i…»
+- `chunk_311.md` — página 312 (2856 chars) · «308 • DMBOK2  • Requirements: Need for thoroughness and detail in retrieval (as in the pha…»
+- `chunk_312.md` — página 313 (2786 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 309  Really Simple Syndication (RSS) is an example of a …»
+- `chunk_313.md` — página 314 (2660 chars) · «310 • DMBOK2  locate desired content via some sort of description using language. The prim…»
+- `chunk_314.md` — página 315 (2802 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 311  A micro-controlled vocabulary is a vocabulary view …»
+- `chunk_315.md` — página 316 (2718 chars) · «312 • DMBOK2  • Hierarchical relationship: A relationship between or among terms in a cont…»
+- `chunk_316.md` — página 317 (3061 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 313  • A polyhierarchy is a tree-like structure with mor…»
+- `chunk_317.md` — página 318 (2834 chars) · «314 • DMBOK2  1.3.2.8 Thesauri  A thesaurus is type of controlled vocabulary used for cont…»
+- `chunk_318.md` — página 319 (2535 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 315  • In a taxonomy or data model, what is defined is w…»
+- `chunk_319.md` — página 320 (3188 chars) · «316 • DMBOK2  Both market and regulatory pressures put focus on records retention schedule…»
+- `chunk_320.md` — página 321 (1640 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 317  combine formats. A Vital Record is type a record re…»
+- `chunk_321.md` — página 322 (2722 chars) · «318 • DMBOK2  • Structure: The appearance and arrangement of a record’s content should be …»
+- `chunk_322.md` — página 323 (2331 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 319  people involved in identifying how and where the re…»
+- `chunk_323.md` — página 324 (2786 chars) · «320 • DMBOK2  content analysis to understand the circumstances, facts and potential eviden…»
+- `chunk_324.md` — página 325 (2838 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 321  information flow of how the pages are to work toget…»
+- `chunk_325.md` — página 326 (2959 chars) · «322 • DMBOK2  Web content optimized for semantics incorporates natural key words, rather t…»
+- `chunk_326.md` — página 327 (2715 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 323  should be automated through the use of a content ma…»
+- `chunk_327.md` — página 328 (2578 chars) · «324 • DMBOK2  2.1.2 Develop a Content Strategy  Planning for content management should dir…»
+- `chunk_328.md` — página 329 (2830 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 325  2.1.3.2 Device Access Policies  Since the pendulum …»
+- `chunk_329.md` — página 330 (2521 chars) · «326 • DMBOK2  Data management professionals may get involved with controlled vocabularies …»
+- `chunk_330.md` — página 331 (2152 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 327  Table 15 Levels of Control for Documents per ANSI-8…»
+- `chunk_331.md` — página 332 (2342 chars) · «328 • DMBOK2  2.2.4 Manage Retention and Disposal  Effective document / records management…»
+- `chunk_332.md` — página 333 (2522 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 329  Table 16 Sample Audit Measures  Document / Records …»
+- `chunk_333.md` — página 334 (2857 chars) · «330 • DMBOK2  another delivery channel is desired, this content has to be prepared for tha…»
+- `chunk_334.md` — página 335 (2877 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 331  (MARC) standard format that are stored in library d…»
+- `chunk_335.md` — página 336 (2952 chars) · «332 • DMBOK2  Recognition technologies include optical character recognition (OCR), which …»
+- `chunk_336.md` — página 337 (1861 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 333  design and adaptive capabilities to support a range…»
+- `chunk_337.md` — página 338 (2534 chars) · «334 • DMBOK2  3.4.1 XML  Extensible Markup Language (XML) provides a language for represen…»
+- `chunk_338.md` — página 339 (3108 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 335  3.4.3 RDF and Related W3C Specifications  Resource …»
+- `chunk_339.md` — página 340 (2341 chars) · «336 • DMBOK2  3.4.4 Schema.org  Labeling content with semantic markup (e.g., as defined by…»
+- `chunk_340.md` — página 341 (3031 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 337  • Establish an inventory of policies and procedures…»
+- `chunk_341.md` — página 342 (2705 chars) · «338 • DMBOK2  changes or inertia. To minimize risks, ensure that the content, not the tech…»
+- `chunk_342.md` — página 343 (2975 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 339  • Level 5 Transformational: Information governance …»
+- `chunk_343.md` — página 344 (2655 chars) · «340 • DMBOK2  Often organizations manage information, including records, departmentally, c…»
+- `chunk_344.md` — página 345 (1333 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 341  • Ensure authenticity and integrity of information …»
+- `chunk_345.md` — página 346 (2553 chars) · «342 • DMBOK2  Sponsorship by someone close to or within the ‘C’ suite is a critical requir…»
+- `chunk_346.md` — página 347 (2659 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 343  6.4 Metrics  Key Performance Indicators (KPIs) are …»
+- `chunk_347.md` — página 348 (2173 chars) · «344 • DMBOK2  discovery metrics.55 The primary elements of Volume, Time, and Cost are in t…»
+- `chunk_348.md` — página 349 (1285 chars) · «DOCUMENT AND CONTENT MANAGEMENT • 345  Diamond, David. Metadata for Content Management: De…»
+- `chunk_349.md` — página 350 (2 chars) · «…»
+- `chunk_350.md` — página 351 (961 chars) · «C H A P T E R  10  Reference and Master Data  1. Introduction n any organization, certain …»
+- `chunk_351.md` — página 352 (2836 chars) · «348 • DMBOK2  In most organizations, systems and data evolve more organically than data ma…»
+- `chunk_352.md` — página 353 (2421 chars) · «REFERENCE AND MASTER DATA • 349  1.1 Business Drivers  The most common drivers for initiat…»
+- `chunk_353.md` — página 354 (2296 chars) · «350 • DMBOK2  • Lowering the cost and reducing the complexity of data usage and integratio…»
+- `chunk_354.md` — página 355 (3891 chars) · «REFERENCE AND MASTER DATA • 351  • Enterprise Structure Data, for example, a chart of acco…»
+- `chunk_355.md` — página 356 (3034 chars) · «352 • DMBOK2  either Transactional or Master Data sets. They have fewer columns and fewer …»
+- `chunk_356.md` — página 357 (2840 chars) · «REFERENCE AND MASTER DATA • 353  • Reference Data Management systems that maintain busines…»
+- `chunk_357.md` — página 358 (2746 chars) · «354 • DMBOK2  cases, it is better to maintain distinct lists that are related vs. attempti…»
+- `chunk_358.md` — página 359 (2136 chars) · «REFERENCE AND MASTER DATA • 355  1.3.2.1.3 Taxonomies  Taxonomic Reference Data structures…»
+- `chunk_359.md` — página 360 (2971 chars) · «356 • DMBOK2  the boundaries of the organization. Ontologies can also be understood as a f…»
+- `chunk_360.md` — página 361 (2745 chars) · «REFERENCE AND MASTER DATA • 357  1.3.2.5 Computational Reference Data  Many business activ…»
+- `chunk_361.md` — página 362 (2815 chars) · «358 • DMBOK2  Master Data should represent the authoritative, most accurate data available…»
+- `chunk_362.md` — página 363 (2945 chars) · «REFERENCE AND MASTER DATA • 359  organization (especially in organizations that have multi…»
+- `chunk_363.md` — página 364 (3183 chars) · «360 • DMBOK2  Master Data Management is challenging. It illustrates a fundamental challeng…»
+- `chunk_364.md` — página 365 (2120 chars) · «REFERENCE AND MASTER DATA • 361  should guide how applications are configured to take adva…»
+- `chunk_365.md` — página 366 (2443 chars) · «362 • DMBOK2  Planning for, evaluating, and incorporating new data sources into the Master…»
+- `chunk_366.md` — página 367 (3232 chars) · «REFERENCE AND MASTER DATA • 363  executing the process differ based on the approach they t…»
+- `chunk_367.md` — página 368 (2699 chars) · «364 • DMBOK2  1.3.3.4.4.2 Identity Resolution  Some matches occur with great confidence, b…»
+- `chunk_368.md` — página 369 (3147 chars) · «REFERENCE AND MASTER DATA • 365  • Match-merge rules match records and merge the data from…»
+- `chunk_369.md` — página 370 (2794 chars) · «366 • DMBOK2  Data architecture design of an MDM solution must resolve whether to leverage…»
+- `chunk_370.md` — página 371 (2646 chars) · «REFERENCE AND MASTER DATA • 367  • The importance of the data • The expectations of how cu…»
+- `chunk_371.md` — página 372 (2763 chars) · «368 • DMBOK2  • Product Data Management (PDM) supports engineering and manufacturing funct…»
+- `chunk_372.md` — página 373 (2912 chars) · «REFERENCE AND MASTER DATA • 369  external organizations, a managed and reconciled version …»
+- `chunk_373.md` — página 374 (1702 chars) · «370 • DMBOK2  consistent source of Master Data. However, it is costly to remove the functi…»
+- `chunk_374.md` — página 375 (3238 chars) · «REFERENCE AND MASTER DATA • 371  2.1 MDM Activities  2.1.1 Define MDM Drivers and Requirem…»
+- `chunk_375.md` — página 376 (3067 chars) · «372 • DMBOK2  that can be compared to an organization’s internal data to improve contact i…»
+- `chunk_376.md` — página 377 (2675 chars) · «REFERENCE AND MASTER DATA • 373  account for resources required to support the ongoing qua…»
+- `chunk_377.md` — página 378 (3051 chars) · «374 • DMBOK2  2.2.3 Define Architectural Approach  Before purchasing or building a tool to…»
+- `chunk_378.md` — página 379 (2372 chars) · «REFERENCE AND MASTER DATA • 375  Many Reference Data Management tools include workflows to…»
+- `chunk_379.md` — página 380 (2685 chars) · «376 • DMBOK2  4.1 Adhere to Master Data Architecture  Establishing and following proper re…»
+- `chunk_380.md` — página 381 (2614 chars) · «REFERENCE AND MASTER DATA • 377  The mandated use of ICD-10 codes in the US in 2015 requir…»
+- `chunk_381.md` — página 382 (2340 chars) · «378 • DMBOK2  5. Organization and Cultural Change Reference and Master Data Management req…»
+- `chunk_382.md` — página 383 (2582 chars) · «REFERENCE AND MASTER DATA • 379  As an ongoing process, data governance must have the abil…»
+- `chunk_383.md` — página 384 (3001 chars) · «380 • DMBOK2  Abernethy, Kenneth and J. Thomas Allen. Exploring the Digital Domain: An Int…»
+- `chunk_384.md` — página 385 (962 chars) · «C H A P T E R  11  Data Warehousing and Business Intelligence  1. Introduction he concept …»
+- `chunk_385.md` — página 386 (2335 chars) · «382 • DMBOK2  concept of an enterprise warehouse promised a way to reduce data redundancy,…»
+- `chunk_386.md` — página 387 (2317 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 383  Data warehouses began to be built in ear…»
+- `chunk_387.md` — página 388 (2553 chars) · «384 • DMBOK2  • Summarize and optimize last, not first: Build on the atomic data. Aggregat…»
+- `chunk_388.md` — página 389 (2884 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 385  An Enterprise Data Warehouse (EDW) is a …»
+- `chunk_389.md` — página 390 (3020 chars) · «386 • DMBOK2  1.3.5 Corporate Information Factory (Inmon)  Bill Inmon’s Corporate Informat…»
+- `chunk_390.md` — página 391 (3044 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 387  • Operational Data Store (ODS): An ODS i…»
+- `chunk_391.md` — página 392 (2122 chars) · «388 • DMBOK2  Figure 80 The Corporate Information Factory  1.3.6 Dimensional DW (Kimball) …»
+- `chunk_392.md` — página 393 (2659 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 389  all require Date and Product data. Sales…»
+- `chunk_393.md` — página 394 (2090 chars) · «390 • DMBOK2  Figure 81 Kimball's Data Warehouse Chess Pieces67  Figure 82 also depicts as…»
+- `chunk_394.md` — página 395 (2077 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 391  Figure 82 Conceptual DW/BI and Big Data …»
+- `chunk_395.md` — página 396 (2958 chars) · «392 • DMBOK2  • Operational Data Store (ODS): The ODS is a version of a central persisted …»
+- `chunk_396.md` — página 397 (2976 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 393  Another approach, the Data Vault, also c…»
+- `chunk_397.md` — página 398 (2920 chars) · «394 • DMBOK2  1.3.8.3 Near-real-time and Real-time  With the onset of Operational BI (or O…»
+- `chunk_398.md` — página 399 (3062 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 395  to ask questions related to capabilities…»
+- `chunk_399.md` — página 400 (2471 chars) · «396 • DMBOK2  2.2.2 Define DW/BI Management Processes  Address production management with …»
+- `chunk_400.md` — página 401 (2841 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 397  management systems. Chances are that tab…»
+- `chunk_401.md` — página 402 (2979 chars) · «398 • DMBOK2  Another aspect to defining a population approach centers around change data …»
+- `chunk_402.md` — página 403 (2962 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 399  offer embedded analytics with standard c…»
+- `chunk_403.md` — página 404 (2192 chars) · «400 • DMBOK2  Figure 83 Release Process Example  Those items that business believes ready …»
+- `chunk_404.md` — página 405 (2799 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 401  Items passing the pilot and deemed produ…»
+- `chunk_405.md` — página 406 (2633 chars) · «402 • DMBOK2  3. Tools Choosing the initial set of tools can be a long process. It include…»
+- `chunk_406.md` — página 407 (2709 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 403  • Investigation of the root causes of da…»
+- `chunk_407.md` — página 408 (3216 chars) · «404 • DMBOK2  customer-level capabilities. BI tools are evolving quickly, enabling a trans…»
+- `chunk_408.md` — página 409 (3123 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 405  Production reporting crosses the DW/BI b…»
+- `chunk_409.md` — página 410 (3650 chars) · «406 • DMBOK2  Conceptually, this illustrates as a cube. Multi-dimensional analysis with cu…»
+- `chunk_410.md` — página 411 (2539 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 407  • Drill down / up: Drilling down or up i…»
+- `chunk_411.md` — página 412 (2773 chars) · «408 • DMBOK2  4.2 Self-Service BI  Self-service is a fundamental delivery channel within t…»
+- `chunk_412.md` — página 413 (2687 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 409  • Define data sensitivity and security c…»
+- `chunk_413.md` — página 414 (2597 chars) · «410 • DMBOK2  coded, generated programs and semantic layer content is harmonized across th…»
+- `chunk_414.md` — página 415 (3171 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 411  addressed. A back office support team in…»
+- `chunk_415.md` — página 416 (2640 chars) · «412 • DMBOK2  systems over the initial load, and after a few update load cycles, to meet s…»
+- `chunk_416.md` — página 417 (2674 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 413  • User community type and appropriate to…»
+- `chunk_417.md` — página 418 (2799 chars) · «414 • DMBOK2  Mapping operational source(s) to targets is another natural extension, which…»
+- `chunk_418.md` — página 419 (3208 chars) · «DATA WAREHOUSING AND BUSINESS INTELLIGENCE • 415  Delmater, Rhonda and Monte Hancock Jr. D…»
+- `chunk_419.md` — página 420 (1243 chars) · «416 • DMBOK2  Ponniah, Paulraj. Data Warehousing Fundamentals: A Comprehensive Guide for I…»
+- `chunk_420.md` — página 421 (1067 chars) · «C H A P T E R  12  Metadata Management  1. Introduction he most common definition of Metad…»
+- `chunk_421.md` — página 422 (2993 chars) · «418 • DMBOK2  and its workflows. It enables data quality assessment and is integral to the…»
+- `chunk_422.md` — página 423 (2005 chars) · «METADATA MANAGEMENT • 419  Figure 84 Context Diagram: Metadata  Definition: Planning, Impl…»
+- `chunk_423.md` — página 424 (2368 chars) · «420 • DMBOK2  1.1 Business Drivers  Data cannot be managed without Metadata. In addition, …»
+- `chunk_424.md` — página 425 (2399 chars) · «METADATA MANAGEMENT • 421  • Ensure Metadata quality, consistency, currency, and security …»
+- `chunk_425.md` — página 426 (2647 chars) · «422 • DMBOK2  data comprised only the content of the phone conversations. Common sense rec…»
+- `chunk_426.md` — página 427 (1678 chars) · «METADATA MANAGEMENT • 423  algorithms and business rules; valid domain values and their de…»
+- `chunk_427.md` — página 428 (2301 chars) · «424 • DMBOK2  • Logs of job execution for batch programs • History of extracts and results…»
+- `chunk_428.md` — página 429 (3380 chars) · «METADATA MANAGEMENT • 425  entries; record keeping Metadata, such as retention policies; a…»
+- `chunk_429.md` — página 430 (2971 chars) · «426 • DMBOK2  Well-defined business Metadata is reusable from project-to-project and can d…»
+- `chunk_430.md` — página 431 (2687 chars) · «METADATA MANAGEMENT • 427  • Technical users: Technical users use the business glossary to…»
+- `chunk_431.md` — página 432 (3338 chars) · «428 • DMBOK2  1.3.5.5 Data Dictionaries  A data dictionary defines the structure and conte…»
+- `chunk_432.md` — página 433 (2651 chars) · «METADATA MANAGEMENT • 429  and many other operational Metadata attributes. The most common…»
+- `chunk_433.md` — página 434 (2782 chars) · «430 • DMBOK2  1.3.5.12 Modeling Tools and Repositories  Data modeling tools are used to bu…»
+- `chunk_434.md` — página 435 (2312 chars) · «METADATA MANAGEMENT • 431  1.3.6 Types of Metadata Architecture  Like other forms of data,…»
+- `chunk_435.md` — página 436 (2214 chars) · «432 • DMBOK2  request from the collected Metadata. In this type of implementation, the cap…»
+- `chunk_436.md` — página 437 (2549 chars) · «METADATA MANAGEMENT • 433  Figure 86 Distributed Metadata Architecture  Figure 86 illustra…»
+- `chunk_437.md` — página 438 (1918 chars) · «434 • DMBOK2  Various challenges are apparent in this approach. The design forces the Meta…»
+- `chunk_438.md` — página 439 (2696 chars) · «METADATA MANAGEMENT • 435  The strategy includes defining the organization’s future state …»
+- `chunk_439.md` — página 440 (2609 chars) · «436 • DMBOK2  • Structure: How Metadata will be modeled for storage • Integration: The deg…»
+- `chunk_440.md` — página 441 (1661 chars) · «METADATA MANAGEMENT • 437  Figure 88 depicts a sample Metadata repository metamodel. The b…»
+- `chunk_441.md` — página 442 (1940 chars) · «438 • DMBOK2  • Configuration modifications • Performance tuning • Query statistics analys…»
+- `chunk_442.md` — página 443 (2784 chars) · «METADATA MANAGEMENT • 439  2.4.1 Integrate Metadata  Integration processes gather and cons…»
+- `chunk_443.md` — página 444 (2377 chars) · «440 • DMBOK2  • Metadata intranet websites for browse, search, query, reporting, and analy…»
+- `chunk_444.md` — página 445 (2963 chars) · «METADATA MANAGEMENT • 441  Metadata management tools and repositories themselves are also …»
+- `chunk_445.md` — página 446 (896 chars) · «442 • DMBOK2  Figure 89 Sample Data Element Lineage Flow Diagram  Figure 90 Sample System …»
+- `chunk_446.md` — página 447 (3343 chars) · «METADATA MANAGEMENT • 443  • Business focus: Limit the lineage discovery to data elements …»
+- `chunk_447.md` — página 448 (2850 chars) · «444 • DMBOK2  5. Implementation Guidelines Implement a managed Metadata environment in inc…»
+- `chunk_448.md` — página 449 (2579 chars) · «METADATA MANAGEMENT • 445  5.2 Organizational and Cultural Change  Like other data managem…»
+- `chunk_449.md` — página 450 (2571 chars) · «446 • DMBOK2  6.2 Documentation of Metadata Solutions  A master catalog of Metadata will i…»
+- `chunk_450.md` — página 451 (2900 chars) · «METADATA MANAGEMENT • 447  developed for different types of Metadata, and are driven in pa…»
+- `chunk_451.md` — página 452 (1209 chars) · «448 • DMBOK2  7. Works Cited / Recommended Aiken, Peter. Data Reverse Engineering: Slaying…»
+- `chunk_452.md` — página 453 (908 chars) · «C H A P T E R  13  Data Quality  1. Introduction ffective data management involves a set o…»
+- `chunk_453.md` — página 454 (3653 chars) · «450 • DMBOK2  However, many factors can undermine that assumption by contributing to poor …»
+- `chunk_454.md` — página 455 (2969 chars) · «DATA QUALITY • 451  Figure 91 Context Diagram: Data Quality   Definition: The planning, im…»
+- `chunk_455.md` — página 456 (2512 chars) · «452 • DMBOK2  1.1 Business Drivers  The business drivers for establishing a formal Data Qu…»
+- `chunk_456.md` — página 457 (2522 chars) · «DATA QUALITY • 453  • Lifecycle management: The quality of data should be managed across t…»
+- `chunk_457.md` — página 458 (2716 chars) · «454 • DMBOK2  Data is of high quality to the degree that it meets the expectations and nee…»
+- `chunk_458.md` — página 459 (2206 chars) · «DATA QUALITY • 455  For example, if the data in the customer email address field is incomp…»
+- `chunk_459.md` — página 460 (1176 chars) · «456 • DMBOK2  Data Model:  • Content: o Relevance of data o The ability to obtain the valu…»
+- `chunk_460.md` — página 461 (2050 chars) · «DATA QUALITY • 457  In Improving Data Warehouse and Business Information Quality (1999), L…»
+- `chunk_461.md` — página 462 (4328 chars) · «458 • DMBOK2  • Timing issues (beyond timeliness itself): Is it stable yet responsive to l…»
+- `chunk_462.md` — página 463 (4253 chars) · «DATA QUALITY • 459  Dimension of  Quality  Description  Integrity  Data Integrity (or Cohe…»
+- `chunk_463.md` — página 464 (1058 chars) · «460 • DMBOK2  Figure 92 Relationship Between Data Quality Dimensions77  77 Adapted from My…»
+- `chunk_464.md` — página 465 (2813 chars) · «DATA QUALITY • 461  1.3.4 Data Quality and Metadata  Metadata is critical to managing the …»
+- `chunk_465.md` — página 466 (2969 chars) · «462 • DMBOK2  the exchange of encoded data.81 ISO 22745 creates portable data by labeling …»
+- `chunk_466.md` — página 467 (2367 chars) · «DATA QUALITY • 463  Figure 93 The Shewhart Chart  For a given data set, a Data Quality Man…»
+- `chunk_467.md` — página 468 (2816 chars) · «464 • DMBOK2  The cost of getting data right the first time is cheaper than the costs from…»
+- `chunk_468.md` — página 469 (2693 chars) · «DATA QUALITY • 465  • Consistency rules: Conditional assertions that refer to maintaining …»
+- `chunk_469.md` — página 470 (2737 chars) · «466 • DMBOK2  Every organization has information and data assets that are of value to its …»
+- `chunk_470.md` — página 471 (2525 chars) · «DATA QUALITY • 467  Figure 94 Barriers to Managing Information as a Business Asset86  • Ch…»
+- `chunk_471.md` — página 472 (2585 chars) · «468 • DMBOK2  • Inconsistent business process execution: Data created through processes th…»
+- `chunk_472.md` — página 473 (2910 chars) · «DATA QUALITY • 469  • Coding inaccuracies and gaps: If the data mapping or layout is incor…»
+- `chunk_473.md` — página 474 (3096 chars) · «470 • DMBOK2  These changes are generally NOT undo-able without a complete restore from ba…»
+- `chunk_474.md` — página 475 (2428 chars) · «DATA QUALITY • 471  1.3.10.1 Data Cleansing  Data Cleansing or Scrubbing transforms data t…»
+- `chunk_475.md` — página 476 (3587 chars) · «472 • DMBOK2  • Psychographic information: Data used to segment the target populations by …»
+- `chunk_476.md` — página 477 (2585 chars) · «DATA QUALITY • 473  1.3.10.4 Data Transformation and Standardization  During normal proces…»
+- `chunk_477.md` — página 478 (2948 chars) · «474 • DMBOK2  This kind of assessment can reveal a significant number of opportunities. Th…»
+- `chunk_478.md` — página 479 (3775 chars) · «DATA QUALITY • 475  Having identified the critical data, Data Quality analysts need to ide…»
+- `chunk_479.md` — página 480 (3053 chars) · «476 • DMBOK2  data, contradictory data, etc., as well as data that actually does conform t…»
+- `chunk_480.md` — página 481 (3015 chars) · «DATA QUALITY • 477  from stakeholders along the data chain. When planning large scale prof…»
+- `chunk_481.md` — página 482 (2466 chars) · «478 • DMBOK2  Stewards will also be engaged in activities such as documenting data standar…»
+- `chunk_482.md` — página 483 (3277 chars) · «DATA QUALITY • 479  2.7.2 Measure and Monitor Data Quality  The operational Data Quality M…»
+- `chunk_483.md` — página 484 (2967 chars) · «480 • DMBOK2  Table 30 DQ Metric Examples  Dimension and  Business Rule  Measure  Metrics …»
+- `chunk_484.md` — página 485 (2882 chars) · «DATA QUALITY • 481  Provide continuous monitoring by incorporating control and measurement…»
+- `chunk_485.md` — página 486 (2964 chars) · «482 • DMBOK2  • Formulating options for remediation: Based on the diagnosis, evaluate alte…»
+- `chunk_486.md` — página 487 (3141 chars) · «DATA QUALITY • 483  report on the overall impact of data quality activities. The classific…»
+- `chunk_487.md` — página 488 (2602 chars) · «484 • DMBOK2  When issues are not addressed within the specified resolution times, an esca…»
+- `chunk_488.md` — página 489 (2373 chars) · «DATA QUALITY • 485  3.1 Data Profiling Tools  Data profiling tools produce high-level stat…»
+- `chunk_489.md` — página 490 (2461 chars) · «486 • DMBOK2  4. Techniques 4.1 Preventive Actions  The best way to create high quality da…»
+- `chunk_490.md` — página 491 (3190 chars) · «DATA QUALITY • 487  • Automated correction: Automated correction techniques include rule-b…»
+- `chunk_491.md` — página 492 (3050 chars) · «488 • DMBOK2  • Measurability: A data quality metric must be measurable – it needs to be s…»
+- `chunk_492.md` — página 493 (2316 chars) · «DATA QUALITY • 489  median, or mode) and of variability around a central value (e.g., rang…»
+- `chunk_493.md` — página 494 (3074 chars) · «490 • DMBOK2  measurements to detect unexpected variation as soon as it is detectable. Ear…»
+- `chunk_494.md` — página 495 (3167 chars) · «DATA QUALITY • 491  • Operating model for IT/Business interactions: Business people know w…»
+- `chunk_495.md` — página 496 (3278 chars) · «492 • DMBOK2  profiling and analysis, as well as through quantification of known issues an…»
+- `chunk_496.md` — página 497 (2302 chars) · «DATA QUALITY • 493  • Relationships within the organization’s data ecosystem and why impro…»
+- `chunk_497.md` — página 498 (1842 chars) · «494 • DMBOK2  practices. All Data Management Knowledge Areas require some level of policy,…»
+- `chunk_498.md` — página 499 (2881 chars) · «DATA QUALITY • 495  English, Larry. Improving Data Warehouse and Business Information Qual…»
+- `chunk_499.md` — página 500 (2 chars) · «…»
+- `chunk_500.md` — página 501 (2609 chars) · «C H A P T E R  14  Big Data and Data Science  1. Introduction ince the early 2000s, the te…»
+- `chunk_501.md` — página 502 (2004 chars) · «498 • DMBOK2  Figure 96 Abate Information Triangle  To take advantage of Big Data, however…»
+- `chunk_502.md` — página 503 (2027 chars) · «BIG DATA AND DATA SCIENCE • 499  Figure 97 Context Diagram: Big Data and Data Science   De…»
+- `chunk_503.md` — página 504 (2608 chars) · «500 • DMBOK2  1.2 Principles  The promise of Big Data – that it will provide a different k…»
+- `chunk_504.md` — página 505 (1389 chars) · «BIG DATA AND DATA SCIENCE • 501  Table 32 Analytics Progression  DW / Traditional BI  Data…»
+- `chunk_505.md` — página 506 (2791 chars) · «502 • DMBOK2  • Acquire and ingest data sources: Obtain data sets and onboard them. • Deve…»
+- `chunk_506.md` — página 507 (2003 chars) · «BIG DATA AND DATA SCIENCE • 503  parallel processing and distributed data solutions. Howev…»
+- `chunk_507.md` — página 508 (2366 chars) · «504 • DMBOK2  Figure 100 Conceptual DW/BI and Big Data Architecture  The difference betwee…»
+- `chunk_508.md` — página 509 (3181 chars) · «BIG DATA AND DATA SCIENCE • 505  1.3.6 Data Lake  A data lake is an environment where a va…»
+- `chunk_509.md` — página 510 (2126 chars) · «506 • DMBOK2  serving or data services layer that abstracts the data utilizing Metadata. T…»
+- `chunk_510.md` — página 511 (3499 chars) · «BIG DATA AND DATA SCIENCE • 507  guide organizational initiatives with insights based on c…»
+- `chunk_511.md` — página 512 (3144 chars) · «508 • DMBOK2  Text mining analyzes documents with text analysis and data mining techniques…»
+- `chunk_512.md` — página 513 (3243 chars) · «BIG DATA AND DATA SCIENCE • 509  Frequently, the triggering factor is the accumulation of …»
+- `chunk_513.md` — página 514 (3313 chars) · «510 • DMBOK2  1.3.14 Operational Analytics  The concept of operational analytics (also kno…»
+- `chunk_514.md` — página 515 (2817 chars) · «BIG DATA AND DATA SCIENCE • 511  As data analytics matures, visualizing data in new ways w…»
+- `chunk_515.md` — página 516 (2719 chars) · «512 • DMBOK2  • The timeliness and scope of the data to provision: Many elements can be pr…»
+- `chunk_516.md` — página 517 (3708 chars) · «BIG DATA AND DATA SCIENCE • 513  Risks associated with data sources include privacy concer…»
+- `chunk_517.md` — página 518 (2861 chars) · «514 • DMBOK2  2.4 Develop Data Hypotheses and Methods  Data Science is about building answ…»
+- `chunk_518.md` — página 519 (3117 chars) · «BIG DATA AND DATA SCIENCE • 515  example, customer purchase history would be needed to pre…»
+- `chunk_519.md` — página 520 (2904 chars) · «516 • DMBOK2  expected at this point and early feasibility metrics can guide the managemen…»
+- `chunk_520.md` — página 521 (2374 chars) · «BIG DATA AND DATA SCIENCE • 517  2.7.1 Expose Insights and Findings  The presentation of f…»
+- `chunk_521.md` — página 522 (3640 chars) · «518 • DMBOK2  Access to unstructured data used to occur largely through a batch query inte…»
+- `chunk_522.md` — página 523 (1891 chars) · «BIG DATA AND DATA SCIENCE • 519  Figure 102 Columnar Appliance Architecture95  Data volume…»
+- `chunk_523.md` — página 524 (2664 chars) · «520 • DMBOK2  • Reduce: Remove duplication or perform aggregation in order to reduce the s…»
+- `chunk_524.md` — página 525 (2749 chars) · «BIG DATA AND DATA SCIENCE • 521  can be difficult to recognize in a numbers display. A vis…»
+- `chunk_525.md` — página 526 (2961 chars) · «522 • DMBOK2  its purpose is different. It does not predict outcomes; it seeks to match mo…»
+- `chunk_526.md` — página 527 (2244 chars) · «BIG DATA AND DATA SCIENCE • 523  5. Implementation Guidelines Many of the general principl…»
+- `chunk_527.md` — página 528 (2870 chars) · «524 • DMBOK2  • Business relevance: How well do the Big Data / Data Science initiatives an…»
+- `chunk_528.md` — página 529 (2328 chars) · «BIG DATA AND DATA SCIENCE • 525  • Data Scientist: Provides architecture and model design …»
+- `chunk_529.md` — página 530 (2947 chars) · «526 • DMBOK2  • Processes for neutral and expert presentation to avoid biased results, and…»
+- `chunk_530.md` — página 531 (2839 chars) · «BIG DATA AND DATA SCIENCE • 527  even the source filesystems. Consideration of real-time f…»
+- `chunk_531.md` — página 532 (2246 chars) · «528 • DMBOK2  accessed data) in order to manage data distribution and preserve performance…»
+- `chunk_532.md` — página 533 (3213 chars) · «BIG DATA AND DATA SCIENCE • 529  Davenport, Thomas H. “Beyond the Black Box in analytics a…»
+- `chunk_533.md` — página 534 (581 chars) · «530 • DMBOK2  Starbird, Michael. Meaning from Data: Statistics Made Clear (The Great Cours…»
+- `chunk_534.md` — página 535 (2111 chars) · «C H A P T E R  15  Data Management Maturity Assessment  1. Introduction apability Maturity…»
+- `chunk_535.md` — página 536 (2759 chars) · «532 • DMBOK2  Such an assessment helps identify what is working well, what is not working …»
+- `chunk_536.md` — página 537 (2329 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 533  Figure 103 Context Diagram: Data Management Mat…»
+- `chunk_537.md` — página 538 (2635 chars) · «534 • DMBOK2  1.2 Goals and Principles  The primary goal of a data management capability a…»
+- `chunk_538.md` — página 539 (2970 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 535  Figure 104 Data Management Maturity Model Examp…»
+- `chunk_539.md` — página 540 (2855 chars) · «536 • DMBOK2  Assessment criteria might include metrics related to project success, operat…»
+- `chunk_540.md` — página 541 (1864 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 537  Figure 105 illustrates one way of presenting a …»
+- `chunk_541.md` — página 542 (2268 chars) · «538 • DMBOK2  1.3.3.1 CMMI Data Management Maturity Model (DMM)  The CMMI (Capability Matu…»
+- `chunk_542.md` — página 543 (2376 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 539  • Core disciplines: Data Quality Management, in…»
+- `chunk_543.md` — página 544 (2403 chars) · «540 • DMBOK2  Assessments can and should be scaled to fit the needs of the organization. H…»
+- `chunk_544.md` — página 545 (2915 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 541  evaluation can be repeated for other parts of t…»
+- `chunk_545.md` — página 546 (2334 chars) · «542 • DMBOK2  Before the assessment begins, stakeholders should be informed about expectat…»
+- `chunk_546.md` — página 547 (2292 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 543  • Review results against the rating method and …»
+- `chunk_547.md` — página 548 (2629 chars) · «544 • DMBOK2  strategy. Strategy should include initiatives that further business goals th…»
+- `chunk_548.md` — página 549 (2186 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 545  The roadmap will give targets and a pace for ch…»
+- `chunk_549.md` — página 550 (2539 chars) · «546 • DMBOK2  4. Techniques Many techniques related to executing a DMMA are defined by the…»
+- `chunk_550.md` — página 551 (2611 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 547  The DMBOK Knowledge Areas, activities, and deli…»
+- `chunk_551.md` — página 552 (2527 chars) · «548 • DMBOK2  5.2 Organizational and Cultural Change  Establishing or enhancing a Data Man…»
+- `chunk_552.md` — página 553 (2335 chars) · «DATA MANAGEMENT MATURITY ASSESSMENT • 549  • Resource utilization rates: Powerful examples…»
+- `chunk_553.md` — página 554 (1390 chars) · «550 • DMBOK2  Enterprise Data Management Council (website).  Freund, Jack and Jack Jones. …»
+- `chunk_554.md` — página 555 (2121 chars) · «C H A P T E R  16  Data Management Organization and Role  Expectations  1. Introduction he…»
+- `chunk_555.md` — página 556 (2432 chars) · «552 • DMBOK2  Figure 106 Assess Current State to Create an Operating Model  • Cultural nor…»
+- `chunk_556.md` — página 557 (2802 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 553  management within an organizatio…»
+- `chunk_557.md` — página 558 (678 chars) · «554 • DMBOK2  Figure 107 Decentralized Operating Model  3.2 Network Operating Model  Decen…»
+- `chunk_558.md` — página 559 (1901 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 555  A network model’s benefits are s…»
+- `chunk_559.md` — página 560 (2168 chars) · «556 • DMBOK2  is becoming more common for a Data Management Organization not to report to …»
+- `chunk_560.md` — página 561 (1859 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 557  3.5 Federated Operating Model  A…»
+- `chunk_561.md` — página 562 (2636 chars) · «558 • DMBOK2  need to evolve over time. Since the operating model will serve as the struct…»
+- `chunk_562.md` — página 563 (1761 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 559  4. Critical Success Factors Ten …»
+- `chunk_563.md` — página 564 (2592 chars) · «560 • DMBOK2  4.4 Leadership Alignment  Leadership alignment ensures that there is agreeme…»
+- `chunk_564.md` — página 565 (2643 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 561  Leaders will need orientation to…»
+- `chunk_565.md` — página 566 (2868 chars) · «562 • DMBOK2  new policies and processes are adopted and behavioral change is sustained. I…»
+- `chunk_566.md` — página 567 (2944 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 563  5.3 Identify and Analyze Stakeho…»
+- `chunk_567.md` — página 568 (1383 chars) · «564 • DMBOK2  Figure 112 Stakeholder Interest Map  6. Interactions Between the DMO and Oth…»
+- `chunk_568.md` — página 569 (3068 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 565  While the requirements and funct…»
+- `chunk_569.md` — página 570 (2814 chars) · «566 • DMBOK2  ‘Doing the right things’ and data management is about ‘Doing things right’ (…»
+- `chunk_570.md` — página 571 (2510 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 567  Data Architecture is a key capab…»
+- `chunk_571.md` — página 572 (2493 chars) · «568 • DMBOK2  As Data Management programs and Organizations become more global, the networ…»
+- `chunk_572.md` — página 573 (2714 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 569  7.2.1 Executive Roles  Data Mana…»
+- `chunk_573.md` — página 574 (2285 chars) · «570 • DMBOK2  • Data Integration Architect: A senior data integration developer responsibl…»
+- `chunk_574.md` — página 575 (3124 chars) · «DATA MANAGEMENT ORGANIZATION AND ROLE EXPECTATIONS • 571  8. Works Cited / Recommended Aik…»
+- `chunk_575.md` — página 576 (1547 chars) · «572 • DMBOK2  Kates, Amy and Jay R. Galbraith. Designing Your Organization: Using the STAR…»
+- `chunk_576.md` — página 577 (1805 chars) · «C H A P T E R  17  Data Management and Organizational  Change Management  1. Introduction …»
+- `chunk_577.md` — página 578 (2652 chars) · «574 • DMBOK2  2. Laws of Change Experts in organizational change management recognize a se…»
+- `chunk_578.md` — página 579 (3090 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 575  3. Not Managing a Change: Mana…»
+- `chunk_579.md` — página 580 (1797 chars) · «576 • DMBOK2  to start the journey. When managing change and transition, the role of the C…»
+- `chunk_580.md` — página 581 (2357 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 577  o Use the stakeholder analysis…»
+- `chunk_581.md` — página 582 (2620 chars) · «578 • DMBOK2  • Rush in where angels fear to tread – kicking off change activities without…»
+- `chunk_582.md` — página 583 (2596 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 579  change. Without a public state…»
+- `chunk_583.md` — página 584 (2794 chars) · «580 • DMBOK2  4.5 Error #5: Permitting Obstacles to Block the Vision  New initiatives fail…»
+- `chunk_584.md` — página 585 (2643 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 581  Identifying the problem, solvi…»
+- `chunk_585.md` — página 586 (2265 chars) · «582 • DMBOK2  The two keys to anchoring the change in the culture of the organization are:…»
+- `chunk_586.md` — página 587 (2221 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 583  The next three steps (5 to 7) …»
+- `chunk_587.md` — página 588 (2705 chars) · «584 • DMBOK2  5.1.1 Sources of Complacency  Kotter identifies nine reasons why organizatio…»
+- `chunk_588.md` — página 589 (1534 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 585  Figure 115 Sources of Complace…»
+- `chunk_589.md` — página 590 (2852 chars) · «586 • DMBOK2  change comes even then. An economic or financial crisis in an organization c…»
+- `chunk_590.md` — página 591 (3082 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 587  • The Lone CEO / Lone Champion…»
+- `chunk_591.md` — página 592 (2757 chars) · «588 • DMBOK2  different stakeholder communities. However, it is not a general stakeholder …»
+- `chunk_592.md` — página 593 (2393 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 589  A data governance change leade…»
+- `chunk_593.md` — página 594 (2532 chars) · «590 • DMBOK2  5.2.5 Examples in Information Management Context  Group Think can arise in a…»
+- `chunk_594.md` — página 595 (1791 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 591  Figure 116 Vision Breaks Throu…»
+- `chunk_595.md` — página 596 (3037 chars) · «592 • DMBOK2  5.3.2 The Nature of an Effective Vision  A vision can be mundane and simple.…»
+- `chunk_596.md` — página 597 (1848 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 593  decisions, clarity in our inte…»
+- `chunk_597.md` — página 598 (2735 chars) · «594 • DMBOK2  5.4 Communicating the Change Vision  A vision only has power when those invo…»
+- `chunk_598.md` — página 599 (2685 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 595  focus on technology deployment…»
+- `chunk_599.md` — página 600 (3021 chars) · «596 • DMBOK2  in which case it tends to do so destructively) but over time, through iterat…»
+- `chunk_600.md` — página 601 (3116 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 597  Consider the impact in the imp…»
+- `chunk_601.md` — página 602 (2896 chars) · «598 • DMBOK2  For example, if a governance standard requires that no testing should be don…»
+- `chunk_602.md` — página 603 (3134 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 599  𝐶𝐶= (𝐷𝐷× 𝑉𝑉× 𝐹𝐹) > 𝑅𝑅  Accordi…»
+- `chunk_603.md` — página 604 (2857 chars) · «600 • DMBOK2  which comprise 68% in total. Laggards are the last to adopt any specific inn…»
+- `chunk_604.md` — página 605 (2708 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 601  7.1 The Challenges to be Overc…»
+- `chunk_605.md` — página 606 (1951 chars) · «602 • DMBOK2  reject the innovation, they then move Implement and finally Confirm the adop…»
+- `chunk_606.md` — página 607 (3184 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 603  easily. Likewise, implementati…»
+- `chunk_607.md` — página 608 (2588 chars) · «604 • DMBOK2  However, a common problem in information management initiatives (e.g., Data …»
+- `chunk_608.md` — página 609 (2771 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 605  8.3 The Guiding Coalition  Res…»
+- `chunk_609.md` — página 610 (2170 chars) · «606 • DMBOK2  • Have a clear objective and a desired outcome • Consist of key messages to …»
+- `chunk_610.md` — página 611 (2583 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 607  • Solve problems: Messages sho…»
+- `chunk_611.md` — página 612 (3685 chars) · «608 • DMBOK2  9.4 Communication Plan  A communication plan brings planning elements togeth…»
+- `chunk_612.md` — página 613 (2909 chars) · «DATA MANAGEMENT AND ORGANIZATIONAL CHANGE MANAGEMENT • 609  9.5 Keep Communicating  A Data…»
+- `chunk_613.md` — página 614 (1675 chars) · «610 • DMBOK2  Covey, Stephen R. The 7 Habits of Highly Effective People: Powerful Lessons …»
+- `chunk_614.md` — página 615 (2541 chars) · «611  Acknowledgements  eveloping the second edition of the DAMA-DMBOK has been a labor of …»
+- `chunk_615.md` — página 616 (1965 chars) · «612 • DMBOK2  Primary Contributors  #  Chapter  Primary Contributors  1  Introduction: Dat…»
+- `chunk_616.md` — página 617 (2138 chars) · «ACKNOWLEDGEMENTS • 613  Cynthia Dionisio  Nicholene Kieviets  Susana Navarro  Shaun Dookho…»
+- `chunk_617.md` — página 618 (687 chars) · «614 • DMBOK2  Alicia Slaughter  Akira Takahashi  Roy Verharen  Eva Smith  Steve Thomas  Ka…»
+- `chunk_618.md` — página 619 (2912 chars) · «615  Index  Abstraction category, 165  Abuse  Intentional, 239  Unintentional, 239  Access…»
+- `chunk_619.md` — página 620 (3681 chars) · «616 • DMBOK2  Change managers, 575, 577  Change vision, 604  Charts and graphs, 57  Chief …»
+- `chunk_620.md` — página 621 (3647 chars) · «INDEX • 617  Diagram, 108  Integration, 291  Data governance, 45, 53, 64, 67, 73  Goals of…»
+- `chunk_621.md` — página 622 (3587 chars) · «618 • DMBOK2  Data quality dimension, 454–60  Data quality goals, 477  Data quality improv…»
+- `chunk_622.md` — página 623 (3872 chars) · «INDEX • 619  Archiving, 189  Capacity and growth projections of, 190  Change data within, …»
+- `chunk_623.md` — página 624 (4203 chars) · «620 • DMBOK2  Ethics, 49  ETL data flows, 291  ETL process flow, 274  ETL processes, 485  …»
+- `chunk_624.md` — página 625 (3662 chars) · «INDEX • 621  Issues management, 86–87  IT governance, 71  ITIL. See Information technology…»
+- `chunk_625.md` — página 626 (3854 chars) · «622 • DMBOK2  Network taxonomy, 313  Network-based audit appliance, 254  Neutral zone, 575…»
+- `chunk_626.md` — página 627 (3729 chars) · «INDEX • 623  Maturity model for, 338–39  Principles of, 306  Recovery types, 192  Redactin…»
+- `chunk_627.md` — página 628 (2890 chars) · «624 • DMBOK2  Statistical ‘smoothing’, 58  Statistical process control, 488–90  Stewardshi…»
+
+## Verificación de integridad
+- ✔ páginas extraídas == páginas del PDF

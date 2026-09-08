@@ -1,6 +1,6 @@
 ---
 name: data-governance
-description: Activa cuando el usuario menciona calidad de datos, diccionario de datos, linaje, auditoría de datos, PII en datasets, metadatos, catalogación, contrato de datos, trazabilidad, clasificación de información (pública/interna/sensible), gestión documental y de conocimiento, gobierno de datos, gobernanza de la información, madurez de gestión de datos, o hay que definir qué datos son confiables. **NO activa para** generar documentación legal de cumplimiento — usar `proteccion-datos-personales-cl` o `gobierno-corporativo-compliance-cl` según el dominio; **NO activa para** diseño físico de bases de datos — usar `db-architect`; **NO activa para** la base legal de datos personales — usar `proteccion-datos-personales-cl`.
+description: Activa cuando el usuario menciona calidad de datos, diccionario de datos, linaje, auditoría de datos, PII en datasets, metadatos, catalogación, contrato de datos, trazabilidad, clasificación de información (pública/interna/sensible), gestión documental y de conocimiento, gobierno de datos, gobernanza de la información, madurez de gestión de datos, o hay que definir qué datos son confiables. **NO activa para** generar documentación legal de cumplimiento — usar `proteccion-datos-personales-cl` o `gobierno-corporativo-compliance-cl` según el dominio; **NO activa para** diseño físico de bases de datos — usar 04-tyb-db-architect; **NO activa para** la base legal de datos personales — usar `proteccion-datos-personales-cl`.
 ---
 
 # Gobierno de Datos, Información y Conocimiento — experta autónoma
@@ -9,7 +9,7 @@ Skill de referencia técnica, verificada capítulo por capítulo contra el DAMA-
 International, 2017) — el marco de referencia estándar de la industria. Su trabajo es **evaluar y
 diseñar gobierno de datos con precisión de dominio y cita**, no generar documentación legal (eso es
 `proteccion-datos-personales-cl` o `gobierno-corporativo-compliance-cl`) ni implementar físicamente un
-esquema (eso es `db-architect`).
+esquema (eso es 04-tyb-db-architect).
 
 ## Metodología de razonamiento (cómo pensar un problema de datos, no solo dónde buscarlo)
 
@@ -39,7 +39,7 @@ esquema (eso es `db-architect`).
 8. **Si es diagnóstico organizacional**: usar la Evaluación de Madurez (DMBOK Cap. 15, escala 0-5) antes
    de proponer una estructura nueva, y evolucionar la organización existente en vez de imponer un modelo
    de libro (Cap. 16) — todo cambio de gobierno de datos requiere gestión del cambio explícita (Cap. 17,
-   cruzar con `gestion-cambio-organizacional`).
+   cruzar con 02-ges-cambio-organizacional).
 9. **Enriquecer con complementario solo después de resolver con DAMA-DMBOK**: si la tarea pide ISO
    38505-1/8000 o herramientas específicas (Great Expectations, dbt, Apache Atlas) y hay fuente
    complementaria cargada, se cita después y marcada explícitamente — igual jerarquía que en
@@ -59,7 +59,7 @@ riesgo (auditoría formal, entregable a directorio) releer el capítulo completo
 | Ética del manejo de datos, supervisión de proyectos BI/IA | `references/especifico/mapa-dama-dmbok.md` §6 |
 | Arquitectura, modelado, storage, integración, documentos, datos maestros, warehousing/BI, big data, madurez, organización, gestión del cambio (12 capítulos restantes) | `references/especifico/panorama-dominios-dama.md` |
 | PII: base legal, si es dato sensible según la ley | skill `proteccion-datos-personales-cl` (esta skill solo clasifica técnicamente) |
-| Implementación técnica (esquemas, ETL, físico) | skill `db-architect` |
+| Implementación técnica (esquemas, ETL, físico) | skill 04-tyb-db-architect |
 | Documentar legalmente (política, RAT) | skill `proteccion-datos-personales-cl` |
 | Documentar legalmente (matriz de riesgo penal, código de ética) | skill `gobierno-corporativo-compliance-cl` |
 | Estándares ISO complementarios (38505-1, 8000), libros adicionales | `sources/complementario/` — pendiente, ver Fuentes complementarias abajo |
@@ -98,13 +98,13 @@ no incorporada; pendiente de fuente legítima.
   determina licitud de un tratamiento.
 - **`infraestructura-ciberseguridad`** (complementa): comparten vocabulario de riesgo (DMBOK Cap. 7) —
   esta skill identifica qué dato requiere qué nivel de control, esa skill implementa el control técnico.
-- **`db-architect`** (deriva-a): esta skill define qué debe modelarse/gobernarse; esa skill lo implementa
+- **04-tyb-db-architect** (deriva-a): esta skill define qué debe modelarse/gobernarse; esa skill lo implementa
   físicamente (DMBOK Caps. 4 a 6).
-- **`data-scientist-phd`** (complementa): esta skill garantiza confiabilidad del insumo (Caps. 13 y 14);
+- **04-tyb-data-scientist-phd** (complementa): esta skill garantiza confiabilidad del insumo (Caps. 13 y 14);
   esa skill modela sobre datos ya confiables.
-- **`gestion-cambio-organizacional`** (deriva-a): ningún programa de gobierno de datos sobrevive sin
+- **02-ges-cambio-organizacional** (deriva-a): ningún programa de gobierno de datos sobrevive sin
   gestión del cambio explícita (DMBOK Caps. 16 y 17) — se deriva ahí para la estrategia de adopción.
 - **`proteccion-datos-personales-cl` / `gobierno-corporativo-compliance-cl`** (deriva-a): esta skill
   produce el diagnóstico técnico; esas skills lo documentan legalmente según el dominio.
-- **`redactor-experto`** (deriva-a): para convertir un diagnóstico de madurez o auditoría en informe
+- **04-tyb-redactor-experto** (deriva-a): para convertir un diagnóstico de madurez o auditoría en informe
   ejecutivo.

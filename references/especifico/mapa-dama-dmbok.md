@@ -186,6 +186,6 @@ legal (EIPD), es también una función de gobierno de datos por diseño del prop
 
 ## Grafo
 Se combina con `proteccion-datos-personales-cl` (PII, base legal), `infraestructura-ciberseguridad`
-(control técnico de seguridad), `db-architect` (implementación física). Ver `panorama-dominios-dama.md`
+(control técnico de seguridad), 04-tyb-db-architect (implementación física). Ver `panorama-dominios-dama.md`
 para los 12 capítulos restantes del libro (arquitectura, modelado, storage, integración, documentos,
 datos maestros, warehousing/BI, big data, madurez, organización, gestión del cambio).

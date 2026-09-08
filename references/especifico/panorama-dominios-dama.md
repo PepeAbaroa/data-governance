@@ -32,7 +32,7 @@ las demás, generando exactamente el problema de inconsistencia que esta skill y
 > precise form called the data model."
 
 **Razonamiento aplicado:** el modelo de datos (conceptual → lógico → físico) es insumo directo para
-`db-architect` — esta skill se detiene en el "qué debe representar el modelo" (gobernanza), la
+04-tyb-db-architect — esta skill se detiene en el "qué debe representar el modelo" (gobernanza), la
 implementación física es de la otra skill.
 
 ### Capítulo 6 — Data Storage and Operations
@@ -82,7 +82,7 @@ condición de entrada para cualquier reporte Power BI/TMDL que esta skill ya ras
 > Management, and Data Quality assessment."
 
 **Razonamiento aplicado:** Big Data no exime de gobierno de datos — exige lo mismo (integración,
-metadatos, calidad) pero con métodos distintos (ELT en vez de ETL). Puente hacia `data-scientist-phd` para
+metadatos, calidad) pero con métodos distintos (ELT en vez de ETL). Puente hacia 04-tyb-data-scientist-phd para
 la parte de modelado, y hacia `gobernanza-ia-cl` (pendiente de crear) cuando el uso es específicamente IA.
 
 ### Capítulo 15 — Data Management Maturity Assessment
@@ -101,7 +101,7 @@ aplicable como diagnóstico inicial de cualquier consultoría de gobierno de dat
 
 **Razonamiento aplicado:** advertencia explícita contra el error común de imponer una estructura de
 gobierno de datos "de libro" sin adaptarla a la cultura/jerarquía existente — coherente con
-`gestion-cambio-organizacional` (evolución, no revolución).
+02-ges-cambio-organizacional (evolución, no revolución).
 
 ### Capítulo 17 — Data Management and Organizational Change Management
 > **TEXTO LITERAL** (p.574) "Organizations don't change, people change [...] People don't resist change.
@@ -109,11 +109,11 @@ gobierno de datos "de libro" sin adaptarla a la cultura/jerarquía existente —
 > and not just the systems."
 
 **Razonamiento aplicado:** aplica el modelo de 8 errores/8 etapas de Kotter (ya cubierto en
-`gestion-cambio-organizacional`) específicamente a proyectos de datos — confirma que ningún programa de
+02-ges-cambio-organizacional) específicamente a proyectos de datos — confirma que ningún programa de
 gobierno de datos sobrevive sin gestión del cambio explícita, sin importar cuán bien diseñado esté
 técnicamente.
 
 ## Grafo
-Complementa `mapa-dama-dmbok.md` (los 5 capítulos centrales) y deriva hacia `db-architect` (Caps. 4-6),
-`bpm-procesos-cl` (Cap. 9, gestión documental), `data-scientist-phd` (Cap. 14), `gestion-cambio-organizacional`
+Complementa `mapa-dama-dmbok.md` (los 5 capítulos centrales) y deriva hacia 04-tyb-db-architect (Caps. 4-6),
+02-ges-bpm-procesos-cl (Cap. 9, gestión documental), 04-tyb-data-scientist-phd (Cap. 14), 02-ges-cambio-organizacional
 (Caps. 16-17).
